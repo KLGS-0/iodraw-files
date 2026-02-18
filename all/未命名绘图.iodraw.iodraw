@@ -7,8 +7,14 @@
         <mxCell id="tkj3YItLQOS0JKFhcErc-1" value="&lt;br&gt;   &lt;br&gt;   一级&lt;br&gt;      哔哩哔哩&lt;br&gt;         有具体操作直观。根据AI给的结果来查&lt;br&gt;      AI&lt;br&gt;         广而不深，驳杂，来源不全面。广度深度行，结果太多很难排查。纯文字模型，所以也得会问问题，回答的都是文字，没有直观的操作流程。&lt;br&gt;            罗里吧嗦一大堆，IT类不如浏览器&lt;br&gt;            在专业领域，会给出不存在的内容(俗称幻觉)&lt;br&gt;      浏览器&lt;br&gt;         仅作为前两个的方向补充&lt;br&gt;      二级&lt;br&gt;         知乎&lt;br&gt;            问答性质的，偏生活类问题&lt;br&gt;         酷安&lt;br&gt;            问答性质，偏硬件类，需要动手能力，以及会搞机&lt;br&gt;         CSDN&lt;br&gt;            问答性质，偏编程类，门槛高&lt;br&gt;         三级&lt;br&gt;            群友&lt;br&gt;               解决小问题可以问，深层次问题需要对应群群友&lt;br&gt;            书籍&lt;br&gt;               大海捞针，除非你是专业知识问题，有专业书，但是解决问题概率还是低。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" width="560" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="tkj3YItLQOS0JKFhcErc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tkj3YItLQOS0JKFhcErc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tkj3YItLQOS0JKFhcErc-2" target="tkj3YItLQOS0JKFhcErc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkj3YItLQOS0JKFhcErc-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;问题解决&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tkj3YItLQOS0JKFhcErc-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;问题解决&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
