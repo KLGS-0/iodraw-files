@@ -96,9 +96,14 @@
         <mxCell id="61bhGgRrUZKhB1iqqULo-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-28" target="61bhGgRrUZKhB1iqqULo-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="61bhGgRrUZKhB1iqqULo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-28">
+        <mxCell id="61bhGgRrUZKhB1iqqULo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-28" target="61bhGgRrUZKhB1iqqULo-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1440" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1380" y="170" />
+              <mxPoint x="1441" y="170" />
+              <mxPoint x="1441" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-28" value="&lt;span style=&quot;text-align: left;&quot;&gt;内网穿透&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -108,7 +113,7 @@
           <mxGeometry x="1240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-33" value="&lt;span style=&quot;text-align: left;&quot;&gt;公网&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
