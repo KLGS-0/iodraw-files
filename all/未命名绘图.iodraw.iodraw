@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tkj3YItLQOS0JKFhcErc-1" value="&lt;br&gt;         三级&lt;br&gt;            群友&lt;br&gt;               解决小问题可以问，深层次问题需要对应群群友&lt;br&gt;            书籍&lt;br&gt;               大海捞针，除非你是专业知识问题，有专业书，但是解决问题概率还是低。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tkj3YItLQOS0JKFhcErc-1" value="&lt;br&gt;         三级&lt;br&gt;&lt;br&gt;               解决小问题可以问，深层次问题需要对应群群友&lt;br&gt;            书籍&lt;br&gt;               大海捞针，除非你是专业知识问题，有专业书，但是解决问题概率还是低。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="370" width="560" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tkj3YItLQOS0JKFhcErc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tkj3YItLQOS0JKFhcErc-2" target="tkj3YItLQOS0JKFhcErc-3">
@@ -106,7 +106,7 @@
         <mxCell id="tkj3YItLQOS0JKFhcErc-32" value="&lt;span style=&quot;text-align: left;&quot;&gt;问题解决&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tkj3YItLQOS0JKFhcErc-34" value="&lt;span style=&quot;text-align: left;&quot;&gt;问题解决&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tkj3YItLQOS0JKFhcErc-34" value="&lt;span style=&quot;text-align: left;&quot;&gt;群友&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tkj3YItLQOS0JKFhcErc-37" value="&lt;span style=&quot;text-align: left;&quot;&gt;问题解决&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
