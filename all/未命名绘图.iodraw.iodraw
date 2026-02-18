@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="61bhGgRrUZKhB1iqqULo-1" value="&lt;br&gt;            能手机远控手机/电脑，电脑投屏手机，电脑远控电脑&lt;br&gt;            延迟低，链接稳定，清晰，安全&lt;br&gt;            异地远程，隐私模式&lt;br&gt;         电脑有声手机没声，手机上不能放大缩小，没有滚轮，快捷键也不好用&lt;br&gt;   远程桌面&lt;br&gt;   闪门&lt;br&gt;   rustdesk&lt;br&gt;   皎月连&lt;br&gt;      收费，但是可以白嫖" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="480" width="420" height="260" as="geometry" />
+          <mxGeometry x="460" y="500" width="420" height="160" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-3" target="61bhGgRrUZKhB1iqqULo-5">
           <mxGeometry relative="1" as="geometry" />
