@@ -1,11 +1,14 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="G0V2Ff7FDCL445NGIr7g">
-    <mxGraphModel dx="2590" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tkj3YItLQOS0JKFhcErc-1" value="问题解决&#xa;   &#xa;   一级&#xa;      哔哩哔哩&#xa;         有具体操作直观。根据AI给的结果来查&#xa;      AI&#xa;         广而不深，驳杂，来源不全面。广度深度行，结果太多很难排查。纯文字模型，所以也得会问问题，回答的都是文字，没有直观的操作流程。&#xa;            罗里吧嗦一大堆，IT类不如浏览器&#xa;            在专业领域，会给出不存在的内容(俗称幻觉)&#xa;      浏览器&#xa;         仅作为前两个的方向补充&#xa;      二级&#xa;         知乎&#xa;            问答性质的，偏生活类问题&#xa;         酷安&#xa;            问答性质，偏硬件类，需要动手能力，以及会搞机&#xa;         CSDN&#xa;            问答性质，偏编程类，门槛高&#xa;         三级&#xa;            群友&#xa;               解决小问题可以问，深层次问题需要对应群群友&#xa;            书籍&#xa;               大海捞针，除非你是专业知识问题，有专业书，但是解决问题概率还是低。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="560" height="370" as="geometry" />
+          <mxGeometry x="1610" y="230" width="560" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="tkj3YItLQOS0JKFhcErc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
