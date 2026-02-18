@@ -44,7 +44,7 @@
           <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tkj3YItLQOS0JKFhcErc-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;广而不深，驳杂，来源不全面。广度深度行，结果太多很难排查。纯文字模型，所以也得会问问题，回答的都是文字，没有直观的操作流程。&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;罗里吧嗦一大堆，IT类不如浏览器&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;在专业领域，会给出不存在的内容(俗称幻觉)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="300" width="117" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tkj3YItLQOS0JKFhcErc-13" value="&lt;span style=&quot;text-align: left;&quot;&gt;有具体操作直观。根据AI给的结果来查&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
