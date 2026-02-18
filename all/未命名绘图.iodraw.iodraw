@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="61bhGgRrUZKhB1iqqULo-1" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;   远程桌面&lt;br&gt;   闪门&lt;br&gt;   rustdesk&lt;br&gt;   皎月连&lt;br&gt;      收费，但是可以白嫖" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" width="420" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-3" target="61bhGgRrUZKhB1iqqULo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -192,11 +189,17 @@
         <mxCell id="61bhGgRrUZKhB1iqqULo-54" value="&lt;span style=&quot;text-align: left;&quot;&gt;parsec&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="61bhGgRrUZKhB1iqqULo-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-55" target="61bhGgRrUZKhB1iqqULo-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-55" value="&lt;span style=&quot;text-align: left;&quot;&gt;比较稳定，同一个局域网&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-59" value="&lt;span style=&quot;text-align: left;&quot;&gt;能手机远控手机/电脑，电脑投屏手机，电脑远控电脑&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;延迟低，链接稳定，清晰，安全&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;异地远程，隐私模式&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="61bhGgRrUZKhB1iqqULo-61" value="&lt;span style=&quot;text-align: left;&quot;&gt;比较稳定，同一个局域网&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
