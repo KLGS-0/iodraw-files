@@ -163,16 +163,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-44" value="&lt;span style=&quot;text-align: left;&quot;&gt;ReyLink&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-46" target="61bhGgRrUZKhB1iqqULo-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-46" value="&lt;span style=&quot;text-align: left;&quot;&gt;会员享受高清高帧率，太糊&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-48" value="&lt;span style=&quot;text-align: left;&quot;&gt;不支持控制安卓设备&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-51" target="61bhGgRrUZKhB1iqqULo-52">
           <mxGeometry relative="1" as="geometry" />
@@ -181,7 +181,7 @@
           <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-52" value="&lt;span style=&quot;text-align: left;&quot;&gt;moonlight画质略比parsec高些，但是有时候会卡，不用连接同一个局域网&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-54" target="61bhGgRrUZKhB1iqqULo-55">
           <mxGeometry relative="1" as="geometry" />
@@ -190,7 +190,7 @@
           <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-55" value="&lt;span style=&quot;text-align: left;&quot;&gt;比较稳定，同一个局域网&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
