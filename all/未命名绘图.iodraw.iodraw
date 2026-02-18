@@ -10,11 +10,17 @@
         <mxCell id="61bhGgRrUZKhB1iqqULo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-3" target="61bhGgRrUZKhB1iqqULo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="61bhGgRrUZKhB1iqqULo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-3" target="61bhGgRrUZKhB1iqqULo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;远控程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;整理wallpaper H的时候不被人看见&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="61bhGgRrUZKhB1iqqULo-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;远控程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
