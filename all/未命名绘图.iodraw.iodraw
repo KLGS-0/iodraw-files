@@ -7,19 +7,13 @@
         <mxCell id="61bhGgRrUZKhB1iqqULo-1" value="&lt;br&gt;&lt;br&gt;      向日葵连接慢，容易掉线&lt;br&gt;         所以需要找新的&lt;br&gt;            p2p协议速度快&lt;br&gt;               中央服务器慢&lt;br&gt;                  内网穿透&lt;br&gt;                     公网&lt;br&gt;                     局域网&lt;br&gt;            能手机远控手机/电脑，电脑投屏手机，电脑远控电脑&lt;br&gt;            延迟低，链接稳定，清晰，安全&lt;br&gt;            异地远程，隐私模式&lt;br&gt;   向日葵&lt;br&gt;      垃圾一坨，链接不稳定容易中断(包括近距离)&lt;br&gt;   ToDesk&lt;br&gt;      有时间限制，需要购买VIP&lt;br&gt;         画质差，延迟高&lt;br&gt;   ReyLink&lt;br&gt;      会员享受高清高帧率，太糊&lt;br&gt;         不支持控制安卓设备&lt;br&gt;   sunshine+moonlight&lt;br&gt;      moonlight画质略比parsec高些，但是有时候会卡，不用连接同一个局域网&lt;br&gt;   parsec&lt;br&gt;      比较稳定，同一个局域网&lt;br&gt;         电脑有声手机没声，手机上不能放大缩小，没有滚轮，快捷键也不好用&lt;br&gt;   远程桌面&lt;br&gt;   闪门&lt;br&gt;   rustdesk&lt;br&gt;   皎月连&lt;br&gt;      收费，但是可以白嫖" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="70" width="420" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="61bhGgRrUZKhB1iqqULo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-2" target="61bhGgRrUZKhB1iqqULo-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="61bhGgRrUZKhB1iqqULo-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;远控程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61bhGgRrUZKhB1iqqULo-3" target="61bhGgRrUZKhB1iqqULo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="61bhGgRrUZKhB1iqqULo-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;远控程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="61bhGgRrUZKhB1iqqULo-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;远控程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="61bhGgRrUZKhB1iqqULo-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;整理wallpaper H的时候不被人看见&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
