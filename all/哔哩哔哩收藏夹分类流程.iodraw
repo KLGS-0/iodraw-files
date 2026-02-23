@@ -13,8 +13,14 @@
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;哔哩哔哩收藏夹&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpMjAtp8cGMc4eA8gAbY-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;哔哩哔哩收藏夹&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpMjAtp8cGMc4eA8gAbY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpMjAtp8cGMc4eA8gAbY-3" target="cpMjAtp8cGMc4eA8gAbY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpMjAtp8cGMc4eA8gAbY-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;二次元类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpMjAtp8cGMc4eA8gAbY-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;二次元类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
