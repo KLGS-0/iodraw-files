@@ -56,7 +56,7 @@
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-27" value="还无法定义" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=vertical-lr;" vertex="1" connectable="0" parent="YLSnDWtzU5zgaxtc2eWP-23">
           <mxGeometry x="-0.01" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;二次元类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
