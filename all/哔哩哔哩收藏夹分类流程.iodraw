@@ -184,8 +184,14 @@
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-4" value="IT类(暂时无用)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YLSnDWtzU5zgaxtc2eWP-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YLSnDWtzU5zgaxtc2eWP-8" target="YLSnDWtzU5zgaxtc2eWP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-8" value="胶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YLSnDWtzU5zgaxtc2eWP-13" value="胶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
