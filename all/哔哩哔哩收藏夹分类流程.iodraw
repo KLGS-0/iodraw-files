@@ -22,7 +22,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpMjAtp8cGMc4eA8gAbY-2" target="cpMjAtp8cGMc4eA8gAbY-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="80" />
+              <mxPoint x="700" y="80" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;哔哩哔哩收藏夹&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" width="120" height="60" as="geometry" />
@@ -67,22 +72,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-15" value="&lt;span style=&quot;text-align: left;&quot;&gt;观望&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpMjAtp8cGMc4eA8gAbY-17" target="cpMjAtp8cGMc4eA8gAbY-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-17" value="&lt;span style=&quot;text-align: left;&quot;&gt;学习使用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpMjAtp8cGMc4eA8gAbY-19" target="cpMjAtp8cGMc4eA8gAbY-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;项目下载&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;留存&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
