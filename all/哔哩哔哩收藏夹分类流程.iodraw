@@ -51,6 +51,9 @@
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpMjAtp8cGMc4eA8gAbY-3" target="YLSnDWtzU5zgaxtc2eWP-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YLSnDWtzU5zgaxtc2eWP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpMjAtp8cGMc4eA8gAbY-3" target="YLSnDWtzU5zgaxtc2eWP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;二次元类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -188,6 +191,11 @@
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YLSnDWtzU5zgaxtc2eWP-21" target="YLSnDWtzU5zgaxtc2eWP-22">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YLSnDWtzU5zgaxtc2eWP-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YLSnDWtzU5zgaxtc2eWP-20">
+          <mxGeometry x="-0.14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-21" value="&lt;span style=&quot;text-align: left;&quot;&gt;纯看&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="480" width="120" height="60" as="geometry" />
