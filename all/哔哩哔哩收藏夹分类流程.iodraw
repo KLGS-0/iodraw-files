@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cpMjAtp8cGMc4eA8gAbY-1" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;   手工&lt;br&gt;      生活知识&lt;br&gt;         没用小知识&lt;br&gt;            纯看&lt;br&gt;               术曲" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cpMjAtp8cGMc4eA8gAbY-1" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;      生活知识&lt;br&gt;         没用小知识&lt;br&gt;            纯看&lt;br&gt;               术曲" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="230" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cpMjAtp8cGMc4eA8gAbY-2" target="cpMjAtp8cGMc4eA8gAbY-3" edge="1">
@@ -108,7 +108,7 @@
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;留存&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpMjAtp8cGMc4eA8gAbY-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cpMjAtp8cGMc4eA8gAbY-27" value="&lt;span style=&quot;text-align: left;&quot;&gt;手工&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cpMjAtp8cGMc4eA8gAbY-29" target="cpMjAtp8cGMc4eA8gAbY-31" edge="1">
@@ -135,7 +135,7 @@
         <mxCell id="6rc6pbqjcRSYlcFDpkSl-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6rc6pbqjcRSYlcFDpkSl-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6rc6pbqjcRSYlcFDpkSl-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;网址/网络/浏览器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
