@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cpMjAtp8cGMc4eA8gAbY-1" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;      手机IT搞&lt;br&gt;         IT知识&lt;br&gt;            网址/网络/浏览器&lt;br&gt;   手工&lt;br&gt;      生活知识&lt;br&gt;         没用小知识&lt;br&gt;            纯看&lt;br&gt;               术曲" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpMjAtp8cGMc4eA8gAbY-1" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;         IT知识&lt;br&gt;            网址/网络/浏览器&lt;br&gt;   手工&lt;br&gt;      生活知识&lt;br&gt;         没用小知识&lt;br&gt;            纯看&lt;br&gt;               术曲" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="230" width="160" height="300" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpMjAtp8cGMc4eA8gAbY-2" target="cpMjAtp8cGMc4eA8gAbY-3">
@@ -120,7 +120,7 @@
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-31" value="&lt;span style=&quot;text-align: left;&quot;&gt;电脑问题解决(电脑自身)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpMjAtp8cGMc4eA8gAbY-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpMjAtp8cGMc4eA8gAbY-34" value="&lt;span style=&quot;text-align: left;&quot;&gt;手机IT搞&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
