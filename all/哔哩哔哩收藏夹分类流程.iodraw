@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cpMjAtp8cGMc4eA8gAbY-1" value="哔哩哔哩收藏夹&#xa;   二次元类待整&#xa;      游戏攻略&#xa;      寻分&#xa;   IT类待整&#xa;      观望&#xa;         学习使用&#xa;            留存&#xa;         项目下载&#xa;      电脑问题解决(软件内部)&#xa;         电脑问题解决(电脑自身)&#xa;      手机IT搞&#xa;         IT知识&#xa;            网址/网络/浏览器&#xa;   手工&#xa;      生活知识&#xa;         没用小知识&#xa;            纯看&#xa;               术曲" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpMjAtp8cGMc4eA8gAbY-1" value="&lt;br&gt;   二次元类待整&lt;br&gt;      游戏攻略&lt;br&gt;      寻分&lt;br&gt;   IT类待整&lt;br&gt;      观望&lt;br&gt;         学习使用&lt;br&gt;            留存&lt;br&gt;         项目下载&lt;br&gt;      电脑问题解决(软件内部)&lt;br&gt;         电脑问题解决(电脑自身)&lt;br&gt;      手机IT搞&lt;br&gt;         IT知识&lt;br&gt;            网址/网络/浏览器&lt;br&gt;   手工&lt;br&gt;      生活知识&lt;br&gt;         没用小知识&lt;br&gt;            纯看&lt;br&gt;               术曲" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="230" width="160" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cpMjAtp8cGMc4eA8gAbY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
