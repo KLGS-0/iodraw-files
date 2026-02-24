@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;二次元类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;游戏攻略&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-880" y="420" width="120" height="60" as="geometry" />
@@ -242,7 +242,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YLSnDWtzU5zgaxtc2eWP-28" target="6rc6pbqjcRSYlcFDpkSl-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="380" />
+              <mxPoint x="820" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-28" value="知识" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
