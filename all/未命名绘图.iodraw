@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WtP6x8zqLMq3wdKettYp-1" value="临时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WtP6x8zqLMq3wdKettYp-2" value="要做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="WtP6x8zqLMq3wdKettYp-6" value="待整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WtP6x8zqLMq3wdKettYp-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
