@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c_b70ueVwUD6Y6iu2ZoK-2" value="清理内存" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_b70ueVwUD6Y6iu2ZoK-4" value="内存整理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
@@ -93,7 +93,7 @@
           <mxGeometry x="800" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_b70ueVwUD6Y6iu2ZoK-23" value="部分wallpaper取消订阅但是本地没有正确删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_b70ueVwUD6Y6iu2ZoK-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c_b70ueVwUD6Y6iu2ZoK-25" target="c_b70ueVwUD6Y6iu2ZoK-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -120,10 +120,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c_b70ueVwUD6Y6iu2ZoK-33" value="开始，右键，磁盘管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_b70ueVwUD6Y6iu2ZoK-35" value="只能合并相邻盘" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_b70ueVwUD6Y6iu2ZoK-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c_b70ueVwUD6Y6iu2ZoK-37" target="c_b70ueVwUD6Y6iu2ZoK-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
