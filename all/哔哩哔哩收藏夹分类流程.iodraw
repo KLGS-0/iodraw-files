@@ -231,7 +231,7 @@
           <mxGeometry x="-640" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;术曲&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YLSnDWtzU5zgaxtc2eWP-28" target="cpMjAtp8cGMc4eA8gAbY-27" edge="1">
           <mxGeometry relative="1" as="geometry">
