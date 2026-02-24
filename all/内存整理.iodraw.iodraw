@@ -251,10 +251,8 @@
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-52" value="哔哩哔哩视频" style="rounded=0;whiteSpace=wrap;html=1;direction=west;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1680" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZNJYrjYamDHKoK59UYxm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b_Eb5hu-xeFiIRZRvAhl-55">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860" y="340" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ZNJYrjYamDHKoK59UYxm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b_Eb5hu-xeFiIRZRvAhl-55" target="uX1nWOAwQYCw0sH5txlR-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-55" value="游戏更新" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="920" y="200" width="120" height="60" as="geometry" />
@@ -264,11 +262,6 @@
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-57" value="截图/录视频" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZNJYrjYamDHKoK59UYxm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b_Eb5hu-xeFiIRZRvAhl-59">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="859.8888888888889" y="340" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-59" value="手机存图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
