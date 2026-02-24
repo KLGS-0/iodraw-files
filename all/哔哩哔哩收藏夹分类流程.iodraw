@@ -147,7 +147,12 @@
           <mxGeometry x="-200" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cpMjAtp8cGMc4eA8gAbY-19" target="cpMjAtp8cGMc4eA8gAbY-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="820" />
+              <mxPoint x="-60" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;项目下载&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="720" width="120" height="60" as="geometry" />
@@ -183,10 +188,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6rc6pbqjcRSYlcFDpkSl-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6rc6pbqjcRSYlcFDpkSl-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;网址/网络/浏览器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6rc6pbqjcRSYlcFDpkSl-8" value="&lt;span style=&quot;text-align: left;&quot;&gt;没用小知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="400" width="120" height="60" as="geometry" />
