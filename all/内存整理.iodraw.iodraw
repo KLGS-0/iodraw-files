@@ -286,13 +286,8 @@
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-59" value="手机存图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b_Eb5hu-xeFiIRZRvAhl-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="b_Eb5hu-xeFiIRZRvAhl-62" target="b_Eb5hu-xeFiIRZRvAhl-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1740" y="790" />
-              <mxPoint x="1560" y="790" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZNJYrjYamDHKoK59UYxm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b_Eb5hu-xeFiIRZRvAhl-62" target="b_Eb5hu-xeFiIRZRvAhl-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-62" value="音视频合并" style="rounded=0;whiteSpace=wrap;html=1;direction=west;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1680" y="720" width="120" height="60" as="geometry" />
