@@ -37,8 +37,8 @@
         <mxCell id="WtP6x8zqLMq3wdKettYp-11" value="临时书写" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="alG37IcPZt3W3s5JyaAK-1" value="临时书写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="alG37IcPZt3W3s5JyaAK-1" value="杂写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
