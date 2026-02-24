@@ -185,8 +185,8 @@
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YLSnDWtzU5zgaxtc2eWP-3" target="YLSnDWtzU5zgaxtc2eWP-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="460" />
-              <mxPoint x="420" y="460" />
+              <mxPoint x="300" y="440" />
+              <mxPoint x="420" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -236,16 +236,16 @@
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YLSnDWtzU5zgaxtc2eWP-28" target="cpMjAtp8cGMc4eA8gAbY-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="380" />
-              <mxPoint x="660" y="380" />
+              <mxPoint x="740" y="360" />
+              <mxPoint x="660" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YLSnDWtzU5zgaxtc2eWP-28" target="6rc6pbqjcRSYlcFDpkSl-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="380" />
-              <mxPoint x="820" y="380" />
+              <mxPoint x="740" y="360" />
+              <mxPoint x="820" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
