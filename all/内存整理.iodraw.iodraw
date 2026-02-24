@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xEGSg51FWDdQpe5gW90O-4" value="手机" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qzlOce7CpxfEC_i9MZQD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;textShadow=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="xEGSg51FWDdQpe5gW90O-9" target="xEGSg51FWDdQpe5gW90O-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -262,6 +262,11 @@
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-57" value="截图/录视频" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNJYrjYamDHKoK59UYxm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b_Eb5hu-xeFiIRZRvAhl-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="319.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-59" value="手机存图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
