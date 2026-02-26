@@ -61,7 +61,7 @@
         <mxCell id="9PV2YCe6uFjezLia5YmW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9PV2YCe6uFjezLia5YmW-34" target="9PV2YCe6uFjezLia5YmW-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9PV2YCe6uFjezLia5YmW-34" value="待做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9PV2YCe6uFjezLia5YmW-34" value="D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9PV2YCe6uFjezLia5YmW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9PV2YCe6uFjezLia5YmW-37" target="9PV2YCe6uFjezLia5YmW-34">
@@ -129,7 +129,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9PV2YCe6uFjezLia5YmW-50" value="待整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9PV2YCe6uFjezLia5YmW-50" value="C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9PV2YCe6uFjezLia5YmW-51" value="待做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
