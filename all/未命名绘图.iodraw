@@ -8,10 +8,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9PV2YCe6uFjezLia5YmW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtP6x8zqLMq3wdKettYp-1" target="WtP6x8zqLMq3wdKettYp-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="150" />
+              <mxPoint x="670" y="150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WtP6x8zqLMq3wdKettYp-1" value="临时" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WtP6x8zqLMq3wdKettYp-2" value="要做" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
