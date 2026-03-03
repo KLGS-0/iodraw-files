@@ -127,7 +127,8 @@
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cpMjAtp8cGMc4eA8gAbY-13" target="cpMjAtp8cGMc4eA8gAbY-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-20" y="580" />
+              <mxPoint x="180" y="610" />
+              <mxPoint x="-20" y="610" />
               <mxPoint x="-20" y="730" />
               <mxPoint x="-100" y="730" />
             </Array>
@@ -148,27 +149,27 @@
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cpMjAtp8cGMc4eA8gAbY-17" target="cpMjAtp8cGMc4eA8gAbY-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-100" y="850" />
-              <mxPoint x="-20" y="850" />
+              <mxPoint x="-100" y="730" />
+              <mxPoint x="-20" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-17" value="&lt;span style=&quot;text-align: left;&quot;&gt;学习使用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cpMjAtp8cGMc4eA8gAbY-19" target="cpMjAtp8cGMc4eA8gAbY-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="60" y="850" />
-              <mxPoint x="-20" y="850" />
+              <mxPoint x="60" y="730" />
+              <mxPoint x="-20" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;项目下载&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry y="760" width="120" height="60" as="geometry" />
+          <mxGeometry y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;留存&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-27" value="&lt;span style=&quot;text-align: left;&quot;&gt;“生活”知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="640" width="120" height="60" as="geometry" />
