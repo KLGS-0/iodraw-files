@@ -276,14 +276,13 @@
         <mxCell id="zMTsRge2fAMj6DsSgody-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;单项事&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zMTsRge2fAMj6DsSgody-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zMTsRge2fAMj6DsSgody-4" target="zMTsRge2fAMj6DsSgody-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zMTsRge2fAMj6DsSgody-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zMTsRge2fAMj6DsSgody-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zMTsRge2fAMj6DsSgody-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;专项&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zMTsRge2fAMj6DsSgody-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;专项&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
