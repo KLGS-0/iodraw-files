@@ -104,15 +104,6 @@
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;寻分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpMjAtp8cGMc4eA8gAbY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cpMjAtp8cGMc4eA8gAbY-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="180" y="610" />
-              <mxPoint x="-20" y="610" />
-            </Array>
-            <mxPoint x="-20" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cpMjAtp8cGMc4eA8gAbY-13" target="cpMjAtp8cGMc4eA8gAbY-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
