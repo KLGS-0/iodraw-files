@@ -35,7 +35,7 @@
             <mxPoint x="1180" y="240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="500" y="250" />
-              <mxPoint x="975" y="250" />
+              <mxPoint x="980" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-34" value="不可告人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cpMjAtp8cGMc4eA8gAbY-12" vertex="1" connectable="0">
-          <mxGeometry x="0.681" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-27" value="还无法定义" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;" parent="YLSnDWtzU5zgaxtc2eWP-23" vertex="1" connectable="0">
-          <mxGeometry x="-0.01" y="1" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="-4" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -222,10 +222,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-8" value="胶" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="915" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-13" value="手工" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="915" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-16" value="战双鸣潮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-480" y="400" width="120" height="60" as="geometry" />
@@ -237,7 +237,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-24" value="曲，一定是要放歌" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YLSnDWtzU5zgaxtc2eWP-20" vertex="1" connectable="0">
-          <mxGeometry x="-0.14" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
