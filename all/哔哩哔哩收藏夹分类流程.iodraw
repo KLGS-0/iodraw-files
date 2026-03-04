@@ -196,14 +196,13 @@
             <mxPoint x="880" y="672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6rc6pbqjcRSYlcFDpkSl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6rc6pbqjcRSYlcFDpkSl-2" target="6rc6pbqjcRSYlcFDpkSl-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6rc6pbqjcRSYlcFDpkSl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6rc6pbqjcRSYlcFDpkSl-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6rc6pbqjcRSYlcFDpkSl-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6rc6pbqjcRSYlcFDpkSl-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;网址/网络/浏览器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6rc6pbqjcRSYlcFDpkSl-8" value="&lt;span style=&quot;text-align: left;&quot;&gt;没用小知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="640" width="120" height="60" as="geometry" />
