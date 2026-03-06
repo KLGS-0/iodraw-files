@@ -16,7 +16,7 @@
         <mxCell id="VAHyhifFtz8ZmwLWynZT-2" value="远程控制软件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4rYp5Foyj0IeUdR7TgPC-1" value="远程控制搭建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4rYp5Foyj0IeUdR7TgPC-1" value="公网/内网/内网穿透" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
