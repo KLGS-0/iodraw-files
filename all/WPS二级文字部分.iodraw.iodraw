@@ -22,7 +22,7 @@
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-4" value="插入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGapF8ZKX2GWD0X6GxT1-6" value="WPS二级文字部分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-6" value="页面布局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
