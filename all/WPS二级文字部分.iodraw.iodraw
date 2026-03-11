@@ -26,6 +26,11 @@
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-1" target="TGapF8ZKX2GWD0X6GxT1-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-1" value="WPS二级文字部分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -40,6 +45,9 @@
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-8" value="引用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-11" value="视图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
