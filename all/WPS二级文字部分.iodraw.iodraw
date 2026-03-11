@@ -59,6 +59,9 @@
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-1" target="TGapF8ZKX2GWD0X6GxT1-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-1" target="TGapF8ZKX2GWD0X6GxT1-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-1" value="WPS二级文字部分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -89,7 +92,7 @@
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-20" value="选中表格(表格工具)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGapF8ZKX2GWD0X6GxT1-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-23" value="选中表格(表格样式)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
