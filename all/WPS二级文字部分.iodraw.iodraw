@@ -5,7 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-1" target="TGapF8ZKX2GWD0X6GxT1-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="170" />
+              <mxPoint x="140" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-1" target="TGapF8ZKX2GWD0X6GxT1-4">
           <mxGeometry relative="1" as="geometry" />
@@ -17,13 +22,13 @@
           <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-2" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-4" value="插入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-6" value="页面布局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
