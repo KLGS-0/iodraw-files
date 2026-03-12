@@ -21,7 +21,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2700" y="570" />
-              <mxPoint x="2940" y="570" />
+              <mxPoint x="3140" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -236,7 +236,7 @@
           <mxGeometry x="3080" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-47" value="封面页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="2440" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-49" target="TGapF8ZKX2GWD0X6GxT1-50">
           <mxGeometry relative="1" as="geometry" />
@@ -310,7 +310,7 @@
           <mxGeometry x="1880" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-80" value="文档部件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2720" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="2600" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-84" value="文字工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2200" y="800" width="120" height="60" as="geometry" />
