@@ -102,6 +102,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-2" target="TGapF8ZKX2GWD0X6GxT1-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-2" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -286,7 +289,7 @@
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-80" value="文档部件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2480" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGapF8ZKX2GWD0X6GxT1-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-84" value="文字工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2200" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
