@@ -211,8 +211,14 @@
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-57" value="预设样式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-58" target="TGapF8ZKX2GWD0X6GxT1-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-58" value="(右键)修改样式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-60" value="(右键)修改样式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
