@@ -229,7 +229,12 @@
           <mxGeometry x="2040" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-60" target="TGapF8ZKX2GWD0X6GxT1-62">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2100" y="1130" />
+              <mxPoint x="1940" y="1130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-60" target="TGapF8ZKX2GWD0X6GxT1-64">
           <mxGeometry relative="1" as="geometry" />
@@ -263,6 +268,21 @@
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-70" value="格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-77" target="TGapF8ZKX2GWD0X6GxT1-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-77" target="TGapF8ZKX2GWD0X6GxT1-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-77" value="(角标)段落" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-78" value="缩进和间距" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-79" value="换行和分页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
