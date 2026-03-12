@@ -117,9 +117,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGapF8ZKX2GWD0X6GxT1-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-2">
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-2" target="TGapF8ZKX2GWD0X6GxT1-89">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2400" y="799.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2420" y="630" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-2" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -307,6 +310,9 @@
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-86" value="纸张方向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2720" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
