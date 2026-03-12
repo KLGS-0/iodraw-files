@@ -235,8 +235,17 @@
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-66" value="边框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-67" target="TGapF8ZKX2GWD0X6GxT1-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-67" value="查找/替换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-68" value="格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-70" value="格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
