@@ -241,11 +241,11 @@
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-67" value="查找/替换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGapF8ZKX2GWD0X6GxT1-68" value="格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-68" value="样式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-70" value="格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
