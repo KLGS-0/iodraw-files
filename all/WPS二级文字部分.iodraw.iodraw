@@ -169,6 +169,9 @@
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-37" value="文件加密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGapF8ZKX2GWD0X6GxT1-39" target="TGapF8ZKX2GWD0X6GxT1-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-39" value="(角标)页面设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="760" width="120" height="60" as="geometry" />
         </mxCell>
