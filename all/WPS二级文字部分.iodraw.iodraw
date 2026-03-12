@@ -191,7 +191,7 @@
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-50" value="更改图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGapF8ZKX2GWD0X6GxT1-52" value="选中表格(表格工具)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-52" value="删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
