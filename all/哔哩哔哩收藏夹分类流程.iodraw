@@ -132,7 +132,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BBBIiBiOZWn3PSZiLhvL-1" value="具有要做属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zMTsRge2fAMj6DsSgody-20">
+        <mxCell id="BBBIiBiOZWn3PSZiLhvL-1" value="具有要做属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zMTsRge2fAMj6DsSgody-20" vertex="1" connectable="0">
           <mxGeometry x="0.3169" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -229,10 +229,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BBBIiBiOZWn3PSZiLhvL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YLSnDWtzU5zgaxtc2eWP-4" target="cpMjAtp8cGMc4eA8gAbY-22">
+        <mxCell id="BBBIiBiOZWn3PSZiLhvL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="YLSnDWtzU5zgaxtc2eWP-4" target="cpMjAtp8cGMc4eA8gAbY-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BBBIiBiOZWn3PSZiLhvL-3" value="具有留档属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BBBIiBiOZWn3PSZiLhvL-2">
+        <mxCell id="BBBIiBiOZWn3PSZiLhvL-3" value="具有留档属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BBBIiBiOZWn3PSZiLhvL-2" vertex="1" connectable="0">
           <mxGeometry x="0.1878" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
