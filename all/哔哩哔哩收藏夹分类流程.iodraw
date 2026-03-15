@@ -229,6 +229,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="BBBIiBiOZWn3PSZiLhvL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YLSnDWtzU5zgaxtc2eWP-4" target="cpMjAtp8cGMc4eA8gAbY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-4" value="IT类(暂时无用)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="640" width="120" height="60" as="geometry" />
         </mxCell>
