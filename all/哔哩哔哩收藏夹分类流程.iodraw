@@ -132,6 +132,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="BBBIiBiOZWn3PSZiLhvL-1" value="具有要做属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zMTsRge2fAMj6DsSgody-20">
+          <mxGeometry x="0.3169" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-13" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="520" width="120" height="60" as="geometry" />
         </mxCell>
