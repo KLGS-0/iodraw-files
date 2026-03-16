@@ -38,7 +38,7 @@
             <mxPoint x="2920" y="600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2700" y="570" />
-              <mxPoint x="3420" y="570" />
+              <mxPoint x="3660" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2700" y="570" />
-              <mxPoint x="3580" y="570" />
+              <mxPoint x="3820" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -173,10 +173,10 @@
           <mxGeometry x="3440" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-11" value="视图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3600" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="3720" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-12" value="章节" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3760" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="3880" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TGapF8ZKX2GWD0X6GxT1-15" target="TGapF8ZKX2GWD0X6GxT1-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
