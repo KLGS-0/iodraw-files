@@ -333,6 +333,15 @@
         <mxCell id="9xBf66QIysy7e0q_ZQey-1" value="艺术字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2760" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9xBf66QIysy7e0q_ZQey-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xBf66QIysy7e0q_ZQey-4" target="9xBf66QIysy7e0q_ZQey-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xBf66QIysy7e0q_ZQey-4" value="选中图片(图片工具)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xBf66QIysy7e0q_ZQey-5" value="更改图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2960" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
