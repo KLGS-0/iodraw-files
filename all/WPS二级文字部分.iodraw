@@ -385,8 +385,8 @@
         <mxCell id="9xBf66QIysy7e0q_ZQey-14" value="自动调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2960" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9xBf66QIysy7e0q_ZQey-16" value="双击页眉页脚&lt;div&gt;(页眉页脚选项)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2280" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="9xBf66QIysy7e0q_ZQey-16" value="&lt;div&gt;页眉页脚选项&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
