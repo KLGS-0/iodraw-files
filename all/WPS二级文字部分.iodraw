@@ -158,21 +158,21 @@
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TGapF8ZKX2GWD0X6GxT1-6" target="TGapF8ZKX2GWD0X6GxT1-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3140" y="720" />
-              <mxPoint x="3260" y="720" />
+              <mxPoint x="3140" y="690" />
+              <mxPoint x="3260" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TGapF8ZKX2GWD0X6GxT1-6" target="TGapF8ZKX2GWD0X6GxT1-86" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3140" y="710" />
-              <mxPoint x="3020" y="710" />
+              <mxPoint x="3140" y="680" />
+              <mxPoint x="3020" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-6" value="页面布局" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3080" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="3080" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TGapF8ZKX2GWD0X6GxT1-8" target="TGapF8ZKX2GWD0X6GxT1-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -255,10 +255,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-39" value="(角标)页面设置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3080" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="3080" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-44" value="版式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3080" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="3080" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-47" value="封面页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2440" y="720" width="120" height="60" as="geometry" />
@@ -276,7 +276,7 @@
           <mxGeometry x="2960" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-55" value="分隔符" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3200" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="3200" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TGapF8ZKX2GWD0X6GxT1-57" target="TGapF8ZKX2GWD0X6GxT1-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -341,7 +341,7 @@
           <mxGeometry x="2160" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-86" value="纸张方向" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2960" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="2960" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-89" value="新样式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2280" y="800" width="120" height="60" as="geometry" />
