@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="i1rXZniJY9UrqNszQVVX">
-    <mxGraphModel dx="1276" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="2552" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,7 +225,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-25" value="(角标)字体" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TGapF8ZKX2GWD0X6GxT1-27" target="TGapF8ZKX2GWD0X6GxT1-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -234,19 +234,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-27" value="(角标)段落" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1800" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-29" value="字体" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="920" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TGapF8ZKX2GWD0X6GxT1-31" value="字符边距" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="920" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TGapF8ZKX2GWD0X6GxT1-33" value="缩进和间距" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1440" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGapF8ZKX2GWD0X6GxT1-35" value="换行和分页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-31" value="字符边距" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1600" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-33" value="缩进和间距" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGapF8ZKX2GWD0X6GxT1-35" value="换行和分页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-37" value="文件加密" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2320" y="280" width="120" height="60" as="geometry" />
