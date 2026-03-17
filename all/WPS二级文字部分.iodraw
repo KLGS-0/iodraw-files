@@ -38,7 +38,7 @@
             <mxPoint x="2920" y="600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2700" y="570" />
-              <mxPoint x="3780" y="570" />
+              <mxPoint x="3860" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2700" y="570" />
-              <mxPoint x="3940" y="570" />
+              <mxPoint x="4020" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -362,7 +362,7 @@
         <mxCell id="9xBf66QIysy7e0q_ZQey-8" value="重新进行多级编号会导致标题样式的特殊格式变成悬挂缩进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9xBf66QIysy7e0q_ZQey-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9xBf66QIysy7e0q_ZQey-10" value="交叉引用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3640" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
