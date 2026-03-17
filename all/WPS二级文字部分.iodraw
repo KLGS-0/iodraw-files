@@ -351,7 +351,7 @@
         <mxCell id="9xBf66QIysy7e0q_ZQey-6" value="导航窗格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3720" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9xBf66QIysy7e0q_ZQey-8" value="WPS二级文字部分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9xBf66QIysy7e0q_ZQey-8" value="重新进行多级编号会导致标题样式的特殊格式变成悬挂缩进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
