@@ -331,10 +331,10 @@
           <mxGeometry x="2360" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-90" value="题注" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3520" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="3480" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-92" value="目录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3360" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="3320" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9xBf66QIysy7e0q_ZQey-1" value="艺术字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2760" y="720" width="120" height="60" as="geometry" />
@@ -353,6 +353,9 @@
         </mxCell>
         <mxCell id="9xBf66QIysy7e0q_ZQey-8" value="重新进行多级编号会导致标题样式的特殊格式变成悬挂缩进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xBf66QIysy7e0q_ZQey-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3640" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
