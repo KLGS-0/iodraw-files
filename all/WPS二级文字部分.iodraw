@@ -133,7 +133,12 @@
           <mxGeometry x="2240" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TGapF8ZKX2GWD0X6GxT1-4" target="TGapF8ZKX2GWD0X6GxT1-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2700" y="690" />
+              <mxPoint x="2500" y="690" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TGapF8ZKX2GWD0X6GxT1-4" target="TGapF8ZKX2GWD0X6GxT1-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -327,7 +332,7 @@
           <mxGeometry x="1880" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-80" value="文档部件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2600" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="2720" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-84" value="文字工具(文字排版)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2200" y="800" width="120" height="60" as="geometry" />
@@ -345,7 +350,7 @@
           <mxGeometry x="3320" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9xBf66QIysy7e0q_ZQey-1" value="艺术字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="2880" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9xBf66QIysy7e0q_ZQey-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xBf66QIysy7e0q_ZQey-4" target="9xBf66QIysy7e0q_ZQey-5">
           <mxGeometry relative="1" as="geometry" />
