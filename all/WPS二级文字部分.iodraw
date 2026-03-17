@@ -273,7 +273,7 @@
           <mxGeometry x="2960" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-52" value="删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2960" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="2960" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGapF8ZKX2GWD0X6GxT1-55" value="分隔符" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3200" y="720" width="120" height="60" as="geometry" />
