@@ -373,6 +373,9 @@
         <mxCell id="9xBf66QIysy7e0q_ZQey-6" value="导航窗格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3680" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9xBf66QIysy7e0q_ZQey-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xBf66QIysy7e0q_ZQey-8" target="9xBf66QIysy7e0q_ZQey-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9xBf66QIysy7e0q_ZQey-8" value="重新进行多级编号会导致标题样式的特殊格式变成悬挂缩进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="340" width="120" height="60" as="geometry" />
         </mxCell>
@@ -391,8 +394,11 @@
         <mxCell id="9xBf66QIysy7e0q_ZQey-18" value="取消同前节" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9xBf66QIysy7e0q_ZQey-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9xBf66QIysy7e0q_ZQey-19" value="域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xBf66QIysy7e0q_ZQey-20" value="重新进行多级编号会导致标题样式的特殊格式变成悬挂缩进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
