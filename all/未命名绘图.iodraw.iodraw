@@ -200,7 +200,7 @@
             <mxPoint x="1560" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-107" value="大剑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YkPOdt9QqWB0KImlTy38-107" value="大剑，防御" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-110" value="第二段后重击：连戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
