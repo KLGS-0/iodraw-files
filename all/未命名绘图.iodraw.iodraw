@@ -322,6 +322,9 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-154" value="无敌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-157" value="重击，冲击" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
