@@ -271,7 +271,7 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-133" target="YkPOdt9QqWB0KImlTy38-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-133" value="冰霜爆破" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YkPOdt9QqWB0KImlTy38-133" value="破坏球" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-135" target="YkPOdt9QqWB0KImlTy38-137">
