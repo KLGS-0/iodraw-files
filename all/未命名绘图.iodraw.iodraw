@@ -260,11 +260,6 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-129" value="平底锅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-131">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1560" y="1450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-131" value="松开方向，缠绕鞭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -295,7 +290,7 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-140" value="重击，连续电击" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-141" value="重击，冰霜激光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YkPOdt9QqWB0KImlTy38-141" value="旋转攻击，全方位防御" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-142" value="重击，连续戳击" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -308,9 +303,6 @@
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-144" value="大剑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1980" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-146" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-147" value="燧石" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1900" width="120" height="60" as="geometry" />
