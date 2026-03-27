@@ -14,10 +14,7 @@
           <mxGeometry x="920" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-4" value="背包一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-6" value="武器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-7" value="武器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="590" width="120" height="60" as="geometry" />
