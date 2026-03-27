@@ -10,9 +10,6 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-1" value="苍翼细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-2" target="YkPOdt9QqWB0KImlTy38-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-2" value="武器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -24,6 +21,9 @@
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-7" value="武器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-11" value="武器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
