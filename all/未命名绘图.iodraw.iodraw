@@ -213,7 +213,7 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-112" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-113" value="重击，架盾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YkPOdt9QqWB0KImlTy38-113" value="燧石" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
