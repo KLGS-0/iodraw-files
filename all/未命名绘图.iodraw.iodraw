@@ -58,8 +58,8 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-57" value="重击" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-58" value="下，招架之刃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="YkPOdt9QqWB0KImlTy38-58" value="突刺" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
