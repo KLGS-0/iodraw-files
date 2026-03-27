@@ -337,6 +337,9 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-160" value="步兵手雷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-161" target="YkPOdt9QqWB0KImlTy38-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-161" value="药剂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="920" width="120" height="60" as="geometry" />
         </mxCell>
@@ -357,6 +360,9 @@
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-167" value="茧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-168" value="药剂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
