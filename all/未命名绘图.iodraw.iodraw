@@ -280,7 +280,7 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-135" value="铁扇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-136" value="铁杖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YkPOdt9QqWB0KImlTy38-136" value="铁杖，格挡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-137" value="重击，快速攻击" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
