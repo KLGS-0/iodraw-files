@@ -76,8 +76,14 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-66" value="重击，突刺" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-67" value="背包一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YkPOdt9QqWB0KImlTy38-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-67" target="YkPOdt9QqWB0KImlTy38-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-67" value="壁垒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-68" value="壁垒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
