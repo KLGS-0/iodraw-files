@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-17" value="迅捷之弓/冰之弓" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1240" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-18" value="狂暴之刃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="360" width="120" height="60" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="1560" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-62" value="蓄力，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-64" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="200" width="120" height="60" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="1560" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-67" value="背包一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
