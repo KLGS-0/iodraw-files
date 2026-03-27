@@ -67,11 +67,14 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-60" value="重击，快速连射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-62" value="蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YkPOdt9QqWB0KImlTy38-62" value="蓄力，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-64" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-66" value="重击/冲刺重击；突刺" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
