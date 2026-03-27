@@ -215,11 +215,117 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-115" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-116" value="锁刃鞭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YkPOdt9QqWB0KImlTy38-116" value="松开方向，锁刃鞭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-117" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-121" target="YkPOdt9QqWB0KImlTy38-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-121" target="YkPOdt9QqWB0KImlTy38-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-121" target="YkPOdt9QqWB0KImlTy38-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-121" value="背包二" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-125" target="YkPOdt9QqWB0KImlTy38-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-125" target="YkPOdt9QqWB0KImlTy38-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-125" target="YkPOdt9QqWB0KImlTy38-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-125" value="魔法飞弹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-129" target="YkPOdt9QqWB0KImlTy38-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-129" target="YkPOdt9QqWB0KImlTy38-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-129" target="YkPOdt9QqWB0KImlTy38-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-129" value="刺剑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1570" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-131" value="松开方向，焰火制造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-133" target="YkPOdt9QqWB0KImlTy38-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-133" value="冰霜爆破" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-135" target="YkPOdt9QqWB0KImlTy38-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-135" value="冥魂斩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-136" value="王后之剑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-137" value="重击，冥魂攻击" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-139" target="YkPOdt9QqWB0KImlTy38-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-139" value="第一段重击：突刺" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-140" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-141" value="重击，冰霜激光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-142" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1570" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-144" value="大剑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-145" value="第二段后重击：连戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-146" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-147" value="燧石" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-148" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-149" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-150" value="松开方向，锁刃鞭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-151" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
