@@ -292,7 +292,7 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-139" value="重击，连续挥击" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-140" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YkPOdt9QqWB0KImlTy38-140" value="重击，连续电击" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-141" value="重击，冰霜激光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
