@@ -361,7 +361,7 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-167" value="茧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YkPOdt9QqWB0KImlTy38-168" value="药剂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YkPOdt9QqWB0KImlTy38-168" value="下+长按药剂，诅咒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
