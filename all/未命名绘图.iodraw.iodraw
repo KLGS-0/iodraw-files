@@ -204,6 +204,9 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-97" value="冥魂斩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-98" target="YkPOdt9QqWB0KImlTy38-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-98" value="王后之剑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -233,6 +236,9 @@
         <mxCell id="YkPOdt9QqWB0KImlTy38-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-107" target="YkPOdt9QqWB0KImlTy38-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-107" target="YkPOdt9QqWB0KImlTy38-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-107" value="大剑，防御" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -253,6 +259,9 @@
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-115" value="重击，蓄力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YkPOdt9QqWB0KImlTy38-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YkPOdt9QqWB0KImlTy38-116" target="YkPOdt9QqWB0KImlTy38-117">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YkPOdt9QqWB0KImlTy38-116" value="松开方向，锁刃鞭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="1400" width="120" height="60" as="geometry" />
