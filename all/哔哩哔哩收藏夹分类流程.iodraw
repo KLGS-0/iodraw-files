@@ -121,14 +121,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mbvxplWU9Hcky47hsJ9h-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpMjAtp8cGMc4eA8gAbY-13" target="mbvxplWU9Hcky47hsJ9h-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="260" y="610" />
-              <mxPoint x="580" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cpMjAtp8cGMc4eA8gAbY-13" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT类待整(混沌态)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
         </mxCell>
@@ -332,18 +324,6 @@
         </mxCell>
         <mxCell id="e15STGYwyg1YWi-0igOz-2" value="混沌态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-840" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mbvxplWU9Hcky47hsJ9h-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;手机IT搞&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mbvxplWU9Hcky47hsJ9h-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mbvxplWU9Hcky47hsJ9h-6" target="mbvxplWU9Hcky47hsJ9h-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mbvxplWU9Hcky47hsJ9h-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;电脑问题解决(软件内部)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="920" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mbvxplWU9Hcky47hsJ9h-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;电脑问题解决(电脑自身)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="mbvxplWU9Hcky47hsJ9h-15">
           <mxGeometry relative="1" as="geometry">
