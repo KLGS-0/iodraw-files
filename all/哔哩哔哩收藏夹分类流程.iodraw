@@ -186,10 +186,10 @@
           <mxGeometry x="760" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e15STGYwyg1YWi-0igOz-1" value="多态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="-880" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e15STGYwyg1YWi-0igOz-2" value="混沌态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-880" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="mbvxplWU9Hcky47hsJ9h-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -338,22 +338,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-34" value="&lt;span style=&quot;text-align: left;&quot;&gt;手机IT搞&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mbvxplWU9Hcky47hsJ9h-35" target="mbvxplWU9Hcky47hsJ9h-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-35" value="&lt;span style=&quot;text-align: left;&quot;&gt;电脑问题解决(软件内部)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-36" value="&lt;span style=&quot;text-align: left;&quot;&gt;电脑问题解决(电脑自身)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-44" value="具有留档属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="20.002727272726133" y="960.0009090909089" as="geometry" />
         </mxCell>
         <mxCell id="Tc_O_00BaJbitsz__3P4-1" value="存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="-880" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
