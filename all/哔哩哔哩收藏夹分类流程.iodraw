@@ -213,11 +213,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BBBIiBiOZWn3PSZiLhvL-3" value="具有留档属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BBBIiBiOZWn3PSZiLhvL-2" vertex="1" connectable="0">
-          <mxGeometry x="0.1878" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YLSnDWtzU5zgaxtc2eWP-4" value="IT类(暂时无用)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="720" width="120" height="60" as="geometry" />
         </mxCell>
@@ -413,6 +408,11 @@
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-23" value="&lt;span style=&quot;text-align: left;&quot;&gt;项目下载&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mbvxplWU9Hcky47hsJ9h-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mbvxplWU9Hcky47hsJ9h-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-24" value="&lt;span style=&quot;text-align: left;&quot;&gt;留存&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1680" width="120" height="60" as="geometry" />
