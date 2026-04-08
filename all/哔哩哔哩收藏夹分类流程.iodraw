@@ -422,7 +422,7 @@
           <mxGeometry x="160" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-26" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1520" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-31" value="IT类(暂时无用)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1520" width="120" height="60" as="geometry" />
@@ -441,13 +441,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-34" value="&lt;span style=&quot;text-align: left;&quot;&gt;手机IT搞&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1520" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-35" value="&lt;span style=&quot;text-align: left;&quot;&gt;电脑问题解决(软件内部)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1520" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-36" value="&lt;span style=&quot;text-align: left;&quot;&gt;电脑问题解决(电脑自身)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1280" width="120" height="60" as="geometry" />
