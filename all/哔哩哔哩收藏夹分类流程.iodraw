@@ -396,6 +396,10 @@
         <mxCell id="mbvxplWU9Hcky47hsJ9h-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mbvxplWU9Hcky47hsJ9h-23" target="mbvxplWU9Hcky47hsJ9h-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="1800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="1800" />
+              <mxPoint x="10" y="1800" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-23" value="&lt;span style=&quot;text-align: left;&quot;&gt;项目下载&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
