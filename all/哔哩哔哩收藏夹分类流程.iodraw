@@ -420,7 +420,7 @@
           <mxGeometry x="400" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-31" value="IT类(暂时无用)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1620" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;单项事&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1280" width="120" height="60" as="geometry" />
