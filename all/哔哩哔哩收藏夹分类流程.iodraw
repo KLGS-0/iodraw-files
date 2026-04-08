@@ -411,7 +411,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;使用学习&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mbvxplWU9Hcky47hsJ9h-23" target="mbvxplWU9Hcky47hsJ9h-24">
           <mxGeometry relative="1" as="geometry" />
@@ -420,10 +420,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-23" value="&lt;span style=&quot;text-align: left;&quot;&gt;项目下载&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-24" value="&lt;span style=&quot;text-align: left;&quot;&gt;留存&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-26" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1520" width="120" height="60" as="geometry" />
@@ -436,11 +436,11 @@
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="mbvxplWU9Hcky47hsJ9h-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="1530" as="sourcePoint" />
-            <mxPoint x="60" y="1520" as="targetPoint" />
+            <mxPoint x="100" y="1570" as="sourcePoint" />
+            <mxPoint x="60" y="1560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="40" y="1530" />
-              <mxPoint x="20" y="1530" />
+              <mxPoint x="40" y="1570" />
+              <mxPoint x="20" y="1570" />
             </Array>
           </mxGeometry>
         </mxCell>
