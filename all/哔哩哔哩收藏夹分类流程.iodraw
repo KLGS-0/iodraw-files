@@ -353,7 +353,7 @@
           <mxGeometry x="360" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-44" value="具有留档属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="170.00272727272613" y="960.0009090909089" as="geometry" />
+          <mxGeometry x="20.002727272726133" y="1120.0009090909089" as="geometry" />
         </mxCell>
         <mxCell id="Tc_O_00BaJbitsz__3P4-1" value="存储" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-880" y="800" width="120" height="60" as="geometry" />
