@@ -296,7 +296,7 @@
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="mbvxplWU9Hcky47hsJ9h-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="960" as="targetPoint" />
+            <mxPoint x="20" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mbvxplWU9Hcky47hsJ9h-24" value="&lt;span style=&quot;text-align: left;&quot;&gt;留存&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
