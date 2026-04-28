@@ -383,7 +383,7 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-21" value="软件：GIMP 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="02xiZ_sQty3X1xR7NibE-23" value="清手机内存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="02xiZ_sQty3X1xR7NibE-23" value="直接删除视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
