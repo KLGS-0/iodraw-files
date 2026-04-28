@@ -449,7 +449,7 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-43" value="如果使用h.265进行压缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="02xiZ_sQty3X1xR7NibE-45" value="如果使用h.265进行压缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="02xiZ_sQty3X1xR7NibE-45" value="还得找支持的播放器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1960" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
