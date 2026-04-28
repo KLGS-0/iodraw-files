@@ -416,8 +416,20 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-33" value="内存整理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-34" target="02xiZ_sQty3X1xR7NibE-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-34" value="减少视频体积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-36" target="02xiZ_sQty3X1xR7NibE-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-36" value="视频压缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-38" value="视频压缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
