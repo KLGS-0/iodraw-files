@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Th6LCEqLq-kcoPKJuh1W">
-    <mxGraphModel dx="924" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="442" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,22 +387,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-23" value="直接删除视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1740" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-25" target="02xiZ_sQty3X1xR7NibE-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-25" value="鸣潮“剧情动画”不用录哔哩哔哩有" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1740" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-27" target="02xiZ_sQty3X1xR7NibE-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-27" value="先要比对那个的画质好" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1740" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-29" target="02xiZ_sQty3X1xR7NibE-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-29" value="对照哔哩哔哩的对录屏的进行删除，西格丽卡的就没录屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-31" value="对照哔哩哔哩的对录屏的进行删除，西格丽卡的就没录屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
