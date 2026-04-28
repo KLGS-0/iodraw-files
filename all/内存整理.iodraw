@@ -320,6 +320,9 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-1" target="02xiZ_sQty3X1xR7NibE-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-1" target="02xiZ_sQty3X1xR7NibE-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-1" value="清手机内存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -353,7 +356,7 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-11" target="02xiZ_sQty3X1xR7NibE-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="02xiZ_sQty3X1xR7NibE-11" value="使用ffmpeg合并" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="02xiZ_sQty3X1xR7NibE-11" value="使用ffmpeg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-13" target="02xiZ_sQty3X1xR7NibE-15">
@@ -379,6 +382,9 @@
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-21" value="软件：GIMP 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-23" value="清手机内存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
