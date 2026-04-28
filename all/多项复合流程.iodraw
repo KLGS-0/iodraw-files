@@ -57,6 +57,9 @@
         <mxCell id="9v743zvegqXPoGOUZ6qh-4" value="D盘软件有名录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9v743zvegqXPoGOUZ6qh-6" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="600" width="140" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
