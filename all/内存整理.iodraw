@@ -410,8 +410,14 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-31" value="思考哪些直接删" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-33" target="02xiZ_sQty3X1xR7NibE-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-33" value="内存整理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-34" value="内存整理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
