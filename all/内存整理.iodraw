@@ -356,6 +356,9 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-11" target="02xiZ_sQty3X1xR7NibE-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-11" target="02xiZ_sQty3X1xR7NibE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-11" value="使用ffmpeg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -434,7 +437,7 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-38" value="学习各名词概念" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="02xiZ_sQty3X1xR7NibE-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="02xiZ_sQty3X1xR7NibE-41" value="学习对应的参数压缩效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
