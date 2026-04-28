@@ -353,8 +353,14 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-11" value="使用ffmpeg合并" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-13" target="02xiZ_sQty3X1xR7NibE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-13" value="学习这么合并" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02xiZ_sQty3X1xR7NibE-15" value="如果解析不了m4s文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
