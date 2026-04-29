@@ -481,8 +481,8 @@
         <mxCell id="vTovdfnDheiDvMv4vYXv-8" value="影响截图比对分辨率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="1440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgfBXvbThKyHu25B3bnn-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1400" width="120" height="40" as="geometry" />
+        <mxCell id="vgfBXvbThKyHu25B3bnn-1" value="压缩的目的：保留原有的画质，分辨率，减少视频占用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1400" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
