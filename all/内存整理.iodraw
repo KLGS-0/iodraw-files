@@ -460,26 +460,29 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-52" value="学习对应的参数压缩效果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1360" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vTovdfnDheiDvMv4vYXv-1" value="边际效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vTovdfnDheiDvMv4vYXv-1" value="边际效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vTovdfnDheiDvMv4vYXv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vTovdfnDheiDvMv4vYXv-3" target="vTovdfnDheiDvMv4vYXv-4">
+        <mxCell id="vTovdfnDheiDvMv4vYXv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vTovdfnDheiDvMv4vYXv-3" target="vTovdfnDheiDvMv4vYXv-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vTovdfnDheiDvMv4vYXv-3" value="我电脑不支持高码率，高分辨率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vTovdfnDheiDvMv4vYXv-3" value="我电脑不支持高码率，高分辨率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vTovdfnDheiDvMv4vYXv-4" value="看的时候很难看出区别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vTovdfnDheiDvMv4vYXv-4" value="看的时候很难看出区别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="1440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vTovdfnDheiDvMv4vYXv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vTovdfnDheiDvMv4vYXv-7" target="vTovdfnDheiDvMv4vYXv-8">
+        <mxCell id="vTovdfnDheiDvMv4vYXv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vTovdfnDheiDvMv4vYXv-7" target="vTovdfnDheiDvMv4vYXv-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vTovdfnDheiDvMv4vYXv-7" value="静态模糊" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vTovdfnDheiDvMv4vYXv-7" value="静态模糊" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vTovdfnDheiDvMv4vYXv-8" value="影响截图比对分辨率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vTovdfnDheiDvMv4vYXv-8" value="影响截图比对分辨率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="1440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vgfBXvbThKyHu25B3bnn-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1820" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
