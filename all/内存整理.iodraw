@@ -521,7 +521,7 @@
         <mxCell id="vgfBXvbThKyHu25B3bnn-8" value="会使用ffmpeg压缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vgfBXvbThKyHu25B3bnn-10" value="会使用ffmpeg压缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgfBXvbThKyHu25B3bnn-10" value="参数使用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
