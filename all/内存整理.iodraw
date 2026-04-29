@@ -503,8 +503,14 @@
         <mxCell id="vgfBXvbThKyHu25B3bnn-1" value="压缩的目的：保留原有的画质，分辨率，减少视频占用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="1400" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vgfBXvbThKyHu25B3bnn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgfBXvbThKyHu25B3bnn-2" target="vgfBXvbThKyHu25B3bnn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-2" value="都需要试过才知道结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgfBXvbThKyHu25B3bnn-6" value="得先压缩过一次视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
