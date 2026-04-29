@@ -461,7 +461,12 @@
           <mxGeometry x="1360" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vTovdfnDheiDvMv4vYXv-1" target="vgfBXvbThKyHu25B3bnn-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="1380" />
+              <mxPoint x="540" y="1380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vTovdfnDheiDvMv4vYXv-1" value="边际效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="1240" width="120" height="40" as="geometry" />
@@ -472,6 +477,9 @@
         <mxCell id="vTovdfnDheiDvMv4vYXv-3" value="我电脑不支持高码率，高分辨率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vgfBXvbThKyHu25B3bnn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vTovdfnDheiDvMv4vYXv-4" target="vgfBXvbThKyHu25B3bnn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vTovdfnDheiDvMv4vYXv-4" value="看的时候很难看出区别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="1320" width="120" height="40" as="geometry" />
         </mxCell>
@@ -480,6 +488,14 @@
         </mxCell>
         <mxCell id="vTovdfnDheiDvMv4vYXv-7" value="静态模糊" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vgfBXvbThKyHu25B3bnn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vTovdfnDheiDvMv4vYXv-8" target="vgfBXvbThKyHu25B3bnn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="1380" />
+              <mxPoint x="540" y="1380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vTovdfnDheiDvMv4vYXv-8" value="影响截图比对分辨率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="1320" width="120" height="40" as="geometry" />
