@@ -60,6 +60,9 @@
         <mxCell id="mYQYcYMNs3b0G2Kkv5go-1" value="多项复合流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mYQYcYMNs3b0G2Kkv5go-3" value="单线流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
