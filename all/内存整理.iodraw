@@ -524,6 +524,9 @@
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-1" value="哔哩哔哩视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-3" value="测试源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
