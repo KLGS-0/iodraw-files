@@ -216,9 +216,6 @@
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-19" value="图片文件多传输时间久，并且并不能有效清理出足够多的储存" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="700" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b_Eb5hu-xeFiIRZRvAhl-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="b_Eb5hu-xeFiIRZRvAhl-21" target="b_Eb5hu-xeFiIRZRvAhl-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-21" value="清理QQ" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -295,9 +292,6 @@
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-62" value="音视频合并" style="rounded=0;whiteSpace=wrap;html=1;direction=west;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1680" y="720" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b_Eb5hu-xeFiIRZRvAhl-66" value="已清理" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-68" value="量非常大" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1360" y="600" width="120" height="60" as="geometry" />
@@ -463,12 +457,13 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-52" value="学习对应的参数压缩效果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1360" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vgfBXvbThKyHu25B3bnn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vTovdfnDheiDvMv4vYXv-1" target="vgfBXvbThKyHu25B3bnn-2" edge="1">
+        <mxCell id="vgfBXvbThKyHu25B3bnn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="vgfBXvbThKyHu25B3bnn-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="60" y="1380" />
-              <mxPoint x="220" y="1380" />
+              <mxPoint x="340" y="1280" />
+              <mxPoint x="500" y="1280" />
             </Array>
+            <mxPoint x="340" y="1180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vTovdfnDheiDvMv4vYXv-1" value="边际效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -478,30 +473,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vTovdfnDheiDvMv4vYXv-3" value="我电脑不支持高码率，高分辨率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1240" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="1140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vTovdfnDheiDvMv4vYXv-4" target="vgfBXvbThKyHu25B3bnn-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vTovdfnDheiDvMv4vYXv-4" value="看的时候很难看出区别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1320" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="1220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vTovdfnDheiDvMv4vYXv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vTovdfnDheiDvMv4vYXv-7" target="vTovdfnDheiDvMv4vYXv-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vTovdfnDheiDvMv4vYXv-7" value="静态模糊" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1240" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="1140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vTovdfnDheiDvMv4vYXv-8" target="vgfBXvbThKyHu25B3bnn-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="1380" />
-              <mxPoint x="220" y="1380" />
+              <mxPoint x="660" y="1280" />
+              <mxPoint x="500" y="1280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vTovdfnDheiDvMv4vYXv-8" value="影响截图比对分辨率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1320" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="1220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-1" value="压缩的目的：保留原有的画质，分辨率，减少视频占用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="920" y="1400" width="160" height="40" as="geometry" />
@@ -510,22 +505,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-2" value="都需要试过才知道结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vgfBXvbThKyHu25B3bnn-6" target="vgfBXvbThKyHu25B3bnn-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-6" value="得先压缩过一次视频" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vgfBXvbThKyHu25B3bnn-8" target="vgfBXvbThKyHu25B3bnn-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-8" value="会使用ffmpeg压缩" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-10" value="参数使用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-1" value="哔哩哔哩视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
