@@ -217,7 +217,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-21" value="清理QQ" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;textShadow=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="b_Eb5hu-xeFiIRZRvAhl-29" target="b_Eb5hu-xeFiIRZRvAhl-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -294,7 +294,7 @@
           <mxGeometry x="1680" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-66" value="已清理" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b_Eb5hu-xeFiIRZRvAhl-68" value="量非常大" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1360" y="600" width="120" height="60" as="geometry" />
