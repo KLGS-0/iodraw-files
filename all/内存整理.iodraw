@@ -377,6 +377,9 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-13" value="学习怎么合并" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2360" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-15" target="B22ZPR6_9FLkYPVy2JmU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-15" value="如果解析不了m4s文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2560" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -569,6 +572,9 @@
         </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-23" value="可以先对文件重命名然后再合并" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="2400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
