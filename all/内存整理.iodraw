@@ -573,7 +573,7 @@
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-23" value="可以先对文件重命名然后再合并" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B22ZPR6_9FLkYPVy2JmU-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-25" value="怎么在软件里合并的时候批量重命名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2760" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
