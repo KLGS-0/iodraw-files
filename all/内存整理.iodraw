@@ -407,10 +407,10 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-25" target="02xiZ_sQty3X1xR7NibE-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OtuiblwNQ1dPvujM8sVn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-25" target="OtuiblwNQ1dPvujM8sVn-1">
+        <mxCell id="OtuiblwNQ1dPvujM8sVn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-25" target="OtuiblwNQ1dPvujM8sVn-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="02xiZ_sQty3X1xR7NibE-25" value="鸣潮“剧情动画”不用录哔哩哔哩有" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="02xiZ_sQty3X1xR7NibE-25" value="鸣潮“剧情动画/过场动画”不用录哔哩哔哩有" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1560" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-27" target="02xiZ_sQty3X1xR7NibE-29" edge="1">
@@ -579,7 +579,7 @@
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-25" value="怎么在软件里合并的时候批量重命名" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2760" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OtuiblwNQ1dPvujM8sVn-1" value="先整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OtuiblwNQ1dPvujM8sVn-1" value="先整" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1560" y="2660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
