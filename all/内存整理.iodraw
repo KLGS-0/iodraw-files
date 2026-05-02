@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Th6LCEqLq-kcoPKJuh1W">
-    <mxGraphModel dx="1595" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1823" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -347,6 +347,9 @@
         <mxCell id="02xiZ_sQty3X1xR7NibE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-9" target="02xiZ_sQty3X1xR7NibE-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02xiZ_sQty3X1xR7NibE-9" target="B22ZPR6_9FLkYPVy2JmU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-9" value="音视频合并" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2240" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
@@ -557,6 +560,9 @@
         </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-19" value="然后再尝试使用更精细的参数压缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-21" value="音视频合并" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
