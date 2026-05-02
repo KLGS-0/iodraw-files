@@ -542,8 +542,17 @@
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-6" value="学用3FUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B22ZPR6_9FLkYPVy2JmU-8" target="B22ZPR6_9FLkYPVy2JmU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-8" value="先用预设压两遍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-11" value="看效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
