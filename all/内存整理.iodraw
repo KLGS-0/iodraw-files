@@ -506,20 +506,19 @@
         <mxCell id="vgfBXvbThKyHu25B3bnn-2" value="都需要试过才知道结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vgfBXvbThKyHu25B3bnn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vgfBXvbThKyHu25B3bnn-6" target="vgfBXvbThKyHu25B3bnn-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vgfBXvbThKyHu25B3bnn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vgfBXvbThKyHu25B3bnn-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="1230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-6" value="得先压缩过一次视频" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vgfBXvbThKyHu25B3bnn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vgfBXvbThKyHu25B3bnn-8" target="vgfBXvbThKyHu25B3bnn-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vgfBXvbThKyHu25B3bnn-8" value="会使用ffmpeg压缩" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="1200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vgfBXvbThKyHu25B3bnn-10" value="参数使用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1200" width="120" height="60" as="geometry" />
+        <mxCell id="vgfBXvbThKyHu25B3bnn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="1230" as="sourcePoint" />
+            <mxPoint x="1000" y="1230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-1" value="哔哩哔哩视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
