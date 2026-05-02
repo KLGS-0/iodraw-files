@@ -530,8 +530,14 @@
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-3" value="测试源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B22ZPR6_9FLkYPVy2JmU-4" value="测试源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B22ZPR6_9FLkYPVy2JmU-4" target="B22ZPR6_9FLkYPVy2JmU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-4" value="学用3FUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-6" value="学用3FUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
