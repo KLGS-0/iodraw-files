@@ -564,6 +564,9 @@
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-21" value="要解决命名问题" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="2240" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B22ZPR6_9FLkYPVy2JmU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="B22ZPR6_9FLkYPVy2JmU-23" target="B22ZPR6_9FLkYPVy2JmU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2040" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
