@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Th6LCEqLq-kcoPKJuh1W">
-    <mxGraphModel dx="2590" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="714" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,25 +324,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-1" value="清手机内存" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="02xiZ_sQty3X1xR7NibE-2" target="02xiZ_sQty3X1xR7NibE-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-2" value="移走哔哩哔哩视频" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1560" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1560" y="1829.44" as="sourcePoint" />
-            <mxPoint x="1640" y="1829.44" as="targetPoint" />
+            <mxPoint x="1280" y="2309.44" as="sourcePoint" />
+            <mxPoint x="1360" y="2309.44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-7" target="02xiZ_sQty3X1xR7NibE-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-7" value="音视频分开" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2040" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-9" target="02xiZ_sQty3X1xR7NibE-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -351,7 +351,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-9" value="音视频合并" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2240" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1960" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-11" target="02xiZ_sQty3X1xR7NibE-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -361,104 +361,104 @@
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="02xiZ_sQty3X1xR7NibE-11" target="02xiZ_sQty3X1xR7NibE-43" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2600" y="1720" as="targetPoint" />
+            <mxPoint x="2320" y="2200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2600" y="1830" />
-              <mxPoint x="2600" y="1710" />
+              <mxPoint x="2320" y="2310" />
+              <mxPoint x="2320" y="2190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-11" value="使用ffmpeg" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2440" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-13" target="02xiZ_sQty3X1xR7NibE-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-13" value="学习怎么合并" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2640" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="2360" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-15" value="如果解析不了m4s文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="2560" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="02xiZ_sQty3X1xR7NibE-17" target="02xiZ_sQty3X1xR7NibE-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-17" value="视频剪辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2440" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-19" target="02xiZ_sQty3X1xR7NibE-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-19" value="需要能保留原分辨率码率" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2640" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2360" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-21" value="软件：GIMP 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2560" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="02xiZ_sQty3X1xR7NibE-23" target="02xiZ_sQty3X1xR7NibE-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-23" value="直接删除视频" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-25" target="02xiZ_sQty3X1xR7NibE-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-25" value="鸣潮“剧情动画”不用录哔哩哔哩有" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="1560" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-27" target="02xiZ_sQty3X1xR7NibE-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-27" value="先要比对那个的画质好" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2040" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-29" target="02xiZ_sQty3X1xR7NibE-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-29" value="对照哔哩哔哩的对录屏的进行删除，西格丽卡的就没录屏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2240" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="1960" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-31" value="思考哪些直接删" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2440" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-34" target="02xiZ_sQty3X1xR7NibE-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-34" value="减少视频体积" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1560" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-36" target="02xiZ_sQty3X1xR7NibE-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-36" value="视频压缩" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2040" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-38" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2440" y="1710" as="targetPoint" />
+            <mxPoint x="2160" y="2190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-38" value="学习各名词概念" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2240" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1960" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-43" target="02xiZ_sQty3X1xR7NibE-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-43" value="如果使用h.265进行压缩" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2640" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="2360" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-45" value="还得找支持的播放器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="2560" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-47" value="内存整理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02xiZ_sQty3X1xR7NibE-52" target="02xiZ_sQty3X1xR7NibE-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02xiZ_sQty3X1xR7NibE-52" value="学习对应的参数压缩效果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2440" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vTovdfnDheiDvMv4vYXv-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -505,7 +505,7 @@
           <mxGeometry x="1040" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgfBXvbThKyHu25B3bnn-1" value="压缩的目的：保留原有的画质，分辨率，减少视频占用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2000" y="1600" width="160" height="40" as="geometry" />
+          <mxGeometry x="1720" y="2080" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-1" value="哔哩哔哩视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
@@ -562,13 +562,13 @@
           <mxGeometry x="1080" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-21" value="要解决命名问题" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1960" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="B22ZPR6_9FLkYPVy2JmU-23" target="B22ZPR6_9FLkYPVy2JmU-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-23" value="可以先对文件重命名然后再合并" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
