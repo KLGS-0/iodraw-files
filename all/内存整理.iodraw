@@ -584,8 +584,14 @@
         <mxCell id="Z_GFPXh-WlitE2uJe4Ki-1" value="3FUI没有预设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_GFPXh-WlitE2uJe4Ki-3" target="Z_GFPXh-WlitE2uJe4Ki-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z_GFPXh-WlitE2uJe4Ki-3" value="就得先去找预设参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-5" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
