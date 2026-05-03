@@ -524,7 +524,7 @@
             <mxPoint x="400" y="1670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B22ZPR6_9FLkYPVy2JmU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B22ZPR6_9FLkYPVy2JmU-6" target="B22ZPR6_9FLkYPVy2JmU-8" edge="1">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B22ZPR6_9FLkYPVy2JmU-6" target="Z_GFPXh-WlitE2uJe4Ki-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-6" value="学用3FUI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -577,6 +577,9 @@
         </mxCell>
         <mxCell id="OtuiblwNQ1dPvujM8sVn-1" value="先整过场动画" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1560" y="2640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-1" value="学用3FUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
