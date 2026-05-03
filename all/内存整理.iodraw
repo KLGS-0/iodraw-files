@@ -563,6 +563,9 @@
         <mxCell id="Z_GFPXh-WlitE2uJe4Ki-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B22ZPR6_9FLkYPVy2JmU-19" target="Z_GFPXh-WlitE2uJe4Ki-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B22ZPR6_9FLkYPVy2JmU-19" target="Z_GFPXh-WlitE2uJe4Ki-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-19" value="然后再尝试使用更精细的参数压缩" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -593,8 +596,11 @@
         <mxCell id="Z_GFPXh-WlitE2uJe4Ki-3" value="就得先去找预设参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-8" value="然后再尝试使用更精细的参数压缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-8" value="没必要" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
