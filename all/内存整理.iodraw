@@ -524,7 +524,7 @@
             <mxPoint x="400" y="1670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B22ZPR6_9FLkYPVy2JmU-6" target="Z_GFPXh-WlitE2uJe4Ki-1">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B22ZPR6_9FLkYPVy2JmU-6" target="Z_GFPXh-WlitE2uJe4Ki-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-6" value="学用3FUI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -560,10 +560,10 @@
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-17" value="用两种不同的编码方式&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22800%22%20y%3D%221720%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1080" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B22ZPR6_9FLkYPVy2JmU-19" target="Z_GFPXh-WlitE2uJe4Ki-8">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B22ZPR6_9FLkYPVy2JmU-19" target="Z_GFPXh-WlitE2uJe4Ki-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B22ZPR6_9FLkYPVy2JmU-19" target="Z_GFPXh-WlitE2uJe4Ki-10">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B22ZPR6_9FLkYPVy2JmU-19" target="Z_GFPXh-WlitE2uJe4Ki-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B22ZPR6_9FLkYPVy2JmU-19" value="然后再尝试使用更精细的参数压缩" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -584,22 +584,22 @@
         <mxCell id="OtuiblwNQ1dPvujM8sVn-1" value="先整过场动画" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1560" y="2640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_GFPXh-WlitE2uJe4Ki-1" target="Z_GFPXh-WlitE2uJe4Ki-3">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Z_GFPXh-WlitE2uJe4Ki-1" target="Z_GFPXh-WlitE2uJe4Ki-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-1" value="3FUI没有预设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-1" value="3FUI没有预设" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_GFPXh-WlitE2uJe4Ki-3" target="B22ZPR6_9FLkYPVy2JmU-8">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Z_GFPXh-WlitE2uJe4Ki-3" target="B22ZPR6_9FLkYPVy2JmU-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-3" value="就得先去找预设参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-3" value="就得先去找预设参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-8" value="没必要" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-8" value="没必要" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1680" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-10" value="成功压缩了" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1480" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
