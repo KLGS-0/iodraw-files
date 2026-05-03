@@ -578,7 +578,7 @@
         <mxCell id="OtuiblwNQ1dPvujM8sVn-1" value="先整过场动画" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1560" y="2640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-1" value="学用3FUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_GFPXh-WlitE2uJe4Ki-1" value="3FUI没有预设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
