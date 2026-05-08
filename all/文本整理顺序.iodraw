@@ -90,7 +90,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Px_kAlENZFl4mQWEln_4-9" target="Jxcd9resC_ldleYhXv89-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="450" />
+              <mxPoint x="1740" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Px_kAlENZFl4mQWEln_4-9" value="专用专记" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="360" width="120" height="60" as="geometry" />
@@ -164,8 +169,14 @@
         <mxCell id="Jxcd9resC_ldleYhXv89-27" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1520" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jxcd9resC_ldleYhXv89-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jxcd9resC_ldleYhXv89-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-30" target="Jxcd9resC_ldleYhXv89-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jxcd9resC_ldleYhXv89-30" value="JM.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jxcd9resC_ldleYhXv89-32" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
