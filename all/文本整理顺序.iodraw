@@ -18,6 +18,9 @@
         <mxCell id="alG37IcPZt3W3s5JyaAK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtP6x8zqLMq3wdKettYp-2" target="alG37IcPZt3W3s5JyaAK-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Px_kAlENZFl4mQWEln_4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtP6x8zqLMq3wdKettYp-2" target="Px_kAlENZFl4mQWEln_4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WtP6x8zqLMq3wdKettYp-2" value="要做" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -56,6 +59,9 @@
         </mxCell>
         <mxCell id="YuNprOHhSx1xbM5n7cnN-4" value="具有记录属性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Px_kAlENZFl4mQWEln_4-1" value="搁置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
