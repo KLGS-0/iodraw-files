@@ -55,7 +55,7 @@
           <mxGeometry x="1440" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Px_kAlENZFl4mQWEln_4-5" value="搁置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Px_kAlENZFl4mQWEln_4-6" value="鸣潮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1680" y="80" width="120" height="60" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry x="960" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Px_kAlENZFl4mQWEln_4-9" value="专用专记" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-1" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; 杂思.txt&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 杂用.txt&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 杂记.txt&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 杂识.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="300" width="120" height="60" as="geometry" />
