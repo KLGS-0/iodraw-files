@@ -49,7 +49,7 @@
           <mxGeometry x="800" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alG37IcPZt3W3s5JyaAK-11" value="单项事" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YuNprOHhSx1xbM5n7cnN-2" value="混沌状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="100" width="120" height="60" as="geometry" />
