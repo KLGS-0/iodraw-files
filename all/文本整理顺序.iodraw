@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="aUFf117jgX8lVeDBaX0I">
-    <mxGraphModel dx="1690" dy="2157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="563" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Px_kAlENZFl4mQWEln_4-7" value="杂七杂八" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Px_kAlENZFl4mQWEln_4-8" target="Jxcd9resC_ldleYhXv89-1">
           <mxGeometry relative="1" as="geometry" />
@@ -82,40 +82,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-3" value="人.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-5" target="Jxcd9resC_ldleYhXv89-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-5" value="微信小程序项目介绍.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-7" target="Jxcd9resC_ldleYhXv89-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-7" value="拜拜.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-9" target="Jxcd9resC_ldleYhXv89-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-9" value="故事.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-11" target="Jxcd9resC_ldleYhXv89-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-11" value="红包封面.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-13" target="Jxcd9resC_ldleYhXv89-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-13" value="车牌.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jxcd9resC_ldleYhXv89-15" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1400" width="120" height="60" as="geometry" />
+        <mxCell id="Jxcd9resC_ldleYhXv89-15" value="长文.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
