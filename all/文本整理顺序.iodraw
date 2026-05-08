@@ -87,23 +87,35 @@
         <mxCell id="Jxcd9resC_ldleYhXv89-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-5" target="Jxcd9resC_ldleYhXv89-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jxcd9resC_ldleYhXv89-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jxcd9resC_ldleYhXv89-5" value="微信小程序项目介绍.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-7" target="Jxcd9resC_ldleYhXv89-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jxcd9resC_ldleYhXv89-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jxcd9resC_ldleYhXv89-7" value="拜拜.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-9" target="Jxcd9resC_ldleYhXv89-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jxcd9resC_ldleYhXv89-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jxcd9resC_ldleYhXv89-9" value="故事.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jxcd9resC_ldleYhXv89-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jxcd9resC_ldleYhXv89-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-11" target="Jxcd9resC_ldleYhXv89-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jxcd9resC_ldleYhXv89-11" value="红包封面.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jxcd9resC_ldleYhXv89-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-13" target="Jxcd9resC_ldleYhXv89-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jxcd9resC_ldleYhXv89-13" value="红包封面.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jxcd9resC_ldleYhXv89-15" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
