@@ -232,6 +232,9 @@
         <mxCell id="Jxcd9resC_ldleYhXv89-79" value="手机记事本.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1280" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Jxcd9resC_ldleYhXv89-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jxcd9resC_ldleYhXv89-80" target="Jxcd9resC_ldleYhXv89-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-80" value="文本合集.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="960" width="120" height="60" as="geometry" />
         </mxCell>
@@ -276,6 +279,9 @@
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-94" value="JM.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jxcd9resC_ldleYhXv89-95" value="记事本.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
