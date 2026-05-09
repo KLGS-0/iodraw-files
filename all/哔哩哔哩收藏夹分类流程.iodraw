@@ -385,7 +385,7 @@
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-85" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RKbG-ukf4XjlhOMUDHtM-84">
           <mxGeometry x="-0.8266" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKbG-ukf4XjlhOMUDHtM-80" target="RKbG-ukf4XjlhOMUDHtM-83">
@@ -395,7 +395,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-87" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RKbG-ukf4XjlhOMUDHtM-86">
+        <mxCell id="RKbG-ukf4XjlhOMUDHtM-87" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RKbG-ukf4XjlhOMUDHtM-86">
           <mxGeometry x="-0.8168" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
