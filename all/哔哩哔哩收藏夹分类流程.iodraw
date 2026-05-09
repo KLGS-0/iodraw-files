@@ -418,8 +418,8 @@
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-89" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2060" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-90" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=sortShape;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="1290" width="80" height="80" as="geometry" />
+        <mxCell id="RKbG-ukf4XjlhOMUDHtM-91" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="1270" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
