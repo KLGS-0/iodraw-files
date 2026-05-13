@@ -382,7 +382,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GnQjiI2VIBksbcrT3Xe6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-13">
+        <mxCell id="GnQjiI2VIBksbcrT3Xe6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-13" target="GnQjiI2VIBksbcrT3Xe6-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2160" y="1630" />
@@ -414,27 +414,27 @@
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GnQjiI2VIBksbcrT3Xe6-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1700" y="1750" as="sourcePoint" />
-            <mxPoint x="1460" y="1810" as="targetPoint" />
+            <mxPoint x="2160" y="1750" as="sourcePoint" />
+            <mxPoint x="1920" y="1810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1700" y="1770" />
-              <mxPoint x="1620" y="1770" />
+              <mxPoint x="2160" y="1770" />
+              <mxPoint x="2080" y="1770" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-35" target="GnQjiI2VIBksbcrT3Xe6-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1700" y="1770" />
-              <mxPoint x="1780" y="1770" />
+              <mxPoint x="2160" y="1770" />
+              <mxPoint x="2240" y="1770" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-35" target="GnQjiI2VIBksbcrT3Xe6-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1700" y="1770" />
-              <mxPoint x="1940" y="1770" />
+              <mxPoint x="2160" y="1770" />
+              <mxPoint x="2400" y="1770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -447,16 +447,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-35" value="&lt;span style=&quot;text-align: left;&quot;&gt;二次元类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="2100" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-36" value="&lt;span style=&quot;text-align: left;&quot;&gt;游戏攻略&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="2020" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-37" value="战双鸣潮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="2180" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-38" value="初音未来" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="2340" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-41" target="GnQjiI2VIBksbcrT3Xe6-42">
           <mxGeometry relative="1" as="geometry" />
@@ -467,10 +467,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-41" value="&lt;span style=&quot;text-align: left;&quot;&gt;纯看&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2100" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-42" value="&lt;span style=&quot;text-align: left;&quot;&gt;曲儿&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="2100" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
