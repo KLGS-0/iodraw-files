@@ -473,27 +473,8 @@
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-53" target="GnQjiI2VIBksbcrT3Xe6-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GnQjiI2VIBksbcrT3Xe6-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GnQjiI2VIBksbcrT3Xe6-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1430" y="1870" />
-              <mxPoint x="1430" y="1630" />
-            </Array>
-            <mxPoint x="1410" y="1870" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GnQjiI2VIBksbcrT3Xe6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="GnQjiI2VIBksbcrT3Xe6-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1410" y="1870" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GnQjiI2VIBksbcrT3Xe6-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="GnQjiI2VIBksbcrT3Xe6-59">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1410" y="1870" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-58" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;初音未来&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-59" value="我的世界" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="1820" width="120" height="60" as="geometry" />
