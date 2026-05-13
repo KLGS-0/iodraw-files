@@ -375,6 +375,9 @@
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1700" y="1680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1700" y="1630" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GnQjiI2VIBksbcrT3Xe6-9">
@@ -385,7 +388,7 @@
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-13" target="GnQjiI2VIBksbcrT3Xe6-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2160" y="1630" />
+              <mxPoint x="2220" y="1630" />
             </Array>
             <mxPoint x="2160" y="1680" as="targetPoint" />
           </mxGeometry>
