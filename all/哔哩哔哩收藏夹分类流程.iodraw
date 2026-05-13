@@ -393,8 +393,7 @@
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-80" target="GnQjiI2VIBksbcrT3Xe6-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2140" y="1430" />
-              <mxPoint x="2140" y="1480" />
+              <mxPoint x="2360" y="1430" />
             </Array>
             <mxPoint x="2140" y="1480" as="targetPoint" />
           </mxGeometry>
@@ -411,7 +410,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-94" value="&lt;span style=&quot;text-align: left;&quot;&gt;哔哩哔哩收藏夹&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1960" y="1160" width="120" height="60" as="geometry" />
