@@ -439,7 +439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-6" value="是否是二次元I内容" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="2300" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-6" target="GnQjiI2VIBksbcrT3Xe6-6">
           <mxGeometry relative="1" as="geometry" />
