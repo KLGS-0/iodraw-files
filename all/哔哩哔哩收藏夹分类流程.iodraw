@@ -467,7 +467,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GnQjiI2VIBksbcrT3Xe6-13" value="是否二次元I内容" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GnQjiI2VIBksbcrT3Xe6-13" value="是否是游戏" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1960" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-13" target="GnQjiI2VIBksbcrT3Xe6-13">
