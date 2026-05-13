@@ -403,7 +403,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-80" value="IT类内容" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RKbG-ukf4XjlhOMUDHtM-80" value="是否IT类内容" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-80" target="RKbG-ukf4XjlhOMUDHtM-80" edge="1">
