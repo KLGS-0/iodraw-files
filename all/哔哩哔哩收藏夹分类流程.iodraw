@@ -25,9 +25,6 @@
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-6" target="RKbG-ukf4XjlhOMUDHtM-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-6" target="RKbG-ukf4XjlhOMUDHtM-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;默认&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;收藏夹&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1660" y="410" width="120" height="60" as="geometry" />
         </mxCell>
@@ -84,9 +81,6 @@
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;单项事&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1460" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-37" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;专项&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1820" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="RKbG-ukf4XjlhOMUDHtM-51" edge="1">
           <mxGeometry relative="1" as="geometry">
