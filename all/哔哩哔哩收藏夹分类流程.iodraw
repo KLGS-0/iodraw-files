@@ -103,11 +103,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-46" value="具有要做属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RKbG-ukf4XjlhOMUDHtM-45" vertex="1" connectable="0">
-          <mxGeometry x="0.3169" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-51" target="RKbG-ukf4XjlhOMUDHtM-63" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
