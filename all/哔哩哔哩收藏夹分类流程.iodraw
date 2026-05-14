@@ -123,6 +123,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="lkgZSFcereNKrcgJkRFR-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKbG-ukf4XjlhOMUDHtM-51" target="lkgZSFcereNKrcgJkRFR-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="550" />
+              <mxPoint x="1220" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-51" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT类待整(混沌态)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="520" width="120" height="60" as="geometry" />
         </mxCell>
