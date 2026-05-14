@@ -426,6 +426,12 @@
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-60" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;武术&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lkgZSFcereNKrcgJkRFR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkgZSFcereNKrcgJkRFR-37" target="lkgZSFcereNKrcgJkRFR-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkgZSFcereNKrcgJkRFR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkgZSFcereNKrcgJkRFR-37" target="lkgZSFcereNKrcgJkRFR-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-37" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT类待整(混沌态)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
