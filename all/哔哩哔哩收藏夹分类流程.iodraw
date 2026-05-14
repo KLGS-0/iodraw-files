@@ -1,21 +1,21 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="M6tRW5jWzARfsib-VE_3">
-    <mxGraphModel dx="2127" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="2552" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-6" target="RKbG-ukf4XjlhOMUDHtM-31" edge="1">
+        <mxCell id="RKbG-ukf4XjlhOMUDHtM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1720" y="500" />
               <mxPoint x="1960" y="500" />
             </Array>
-            <mxPoint x="2030" y="500" as="targetPoint" />
+            <mxPoint x="1960" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-6" target="RKbG-ukf4XjlhOMUDHtM-20" edge="1">
+        <mxCell id="RKbG-ukf4XjlhOMUDHtM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2400" y="490" as="targetPoint" />
+            <mxPoint x="2200" y="650" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1720" y="500" />
               <mxPoint x="2200" y="500" />
@@ -28,56 +28,11 @@
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;默认&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;收藏夹&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1660" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-14" value="&lt;span style=&quot;text-align: left;&quot;&gt;“生活”知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1820" y="770" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2100" y="802" as="sourcePoint" />
-            <mxPoint x="2100" y="802" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-16" value="&lt;span style=&quot;text-align: left;&quot;&gt;没用小知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1980" y="770" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-18" target="RKbG-ukf4XjlhOMUDHtM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-18" value="&lt;span style=&quot;text-align: left;&quot;&gt;哔哩哔哩收藏夹&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1660" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-20" target="RKbG-ukf4XjlhOMUDHtM-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-20" value="胶" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2140" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-21" value="手工" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2140" y="770" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-31" target="RKbG-ukf4XjlhOMUDHtM-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1960" y="740" />
-              <mxPoint x="1880" y="740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-31" target="RKbG-ukf4XjlhOMUDHtM-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1960" y="740" />
-              <mxPoint x="2040" y="740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-30" value="难用于生活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RKbG-ukf4XjlhOMUDHtM-29" vertex="1" connectable="0">
-          <mxGeometry x="0.0003" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-31" value="知识" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1900" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;单项事&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1460" y="410" width="120" height="60" as="geometry" />
@@ -413,6 +368,51 @@
         </mxCell>
         <mxCell id="04ZfChHDkT95PeSDl9Xv-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04ZfChHDkT95PeSDl9Xv-30" value="&lt;span style=&quot;text-align: left;&quot;&gt;“生活”知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04ZfChHDkT95PeSDl9Xv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2100" y="802" as="sourcePoint" />
+            <mxPoint x="2100" y="802" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04ZfChHDkT95PeSDl9Xv-32" value="&lt;span style=&quot;text-align: left;&quot;&gt;没用小知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04ZfChHDkT95PeSDl9Xv-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="04ZfChHDkT95PeSDl9Xv-34" target="04ZfChHDkT95PeSDl9Xv-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="04ZfChHDkT95PeSDl9Xv-34" value="胶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04ZfChHDkT95PeSDl9Xv-35" value="手工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04ZfChHDkT95PeSDl9Xv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="04ZfChHDkT95PeSDl9Xv-39" target="04ZfChHDkT95PeSDl9Xv-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1960" y="740" />
+              <mxPoint x="1880" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04ZfChHDkT95PeSDl9Xv-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="04ZfChHDkT95PeSDl9Xv-39" target="04ZfChHDkT95PeSDl9Xv-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1960" y="740" />
+              <mxPoint x="2040" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04ZfChHDkT95PeSDl9Xv-38" value="难用于生活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="04ZfChHDkT95PeSDl9Xv-37">
+          <mxGeometry x="0.0003" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04ZfChHDkT95PeSDl9Xv-39" value="知识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
