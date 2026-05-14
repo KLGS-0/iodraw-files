@@ -199,14 +199,6 @@
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-63" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-67" target="RKbG-ukf4XjlhOMUDHtM-63" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1000" y="1130" />
-              <mxPoint x="1480" y="1130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-67" target="RKbG-ukf4XjlhOMUDHtM-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -247,14 +239,6 @@
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-72" value="&lt;span style=&quot;text-align: left;&quot;&gt;电脑问题解决(电脑自身)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1580" y="970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-73" value="具有留档属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1390.0027272727261" y="1130.0009090909089" as="geometry" />
-        </mxCell>
-        <mxCell id="RKbG-ukf4XjlhOMUDHtM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="RKbG-ukf4XjlhOMUDHtM-76" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1390" y="1130" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-76" value="&lt;span style=&quot;text-align: left;&quot;&gt;没啥用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="930" width="120" height="60" as="geometry" />
