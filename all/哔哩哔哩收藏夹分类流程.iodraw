@@ -290,7 +290,7 @@
         <mxCell id="04ZfChHDkT95PeSDl9Xv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="04ZfChHDkT95PeSDl9Xv-19" target="04ZfChHDkT95PeSDl9Xv-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="04ZfChHDkT95PeSDl9Xv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="04ZfChHDkT95PeSDl9Xv-19" target="04ZfChHDkT95PeSDl9Xv-15" edge="1">
+        <mxCell id="s1_7wkwgumw2aOLhDC7u-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="04ZfChHDkT95PeSDl9Xv-19" target="s1_7wkwgumw2aOLhDC7u-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="04ZfChHDkT95PeSDl9Xv-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;项目下载&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -394,6 +394,9 @@
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-6" value="是否是二次元内容" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s1_7wkwgumw2aOLhDC7u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s1_7wkwgumw2aOLhDC7u-1" target="04ZfChHDkT95PeSDl9Xv-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s1_7wkwgumw2aOLhDC7u-1" value="使用学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1600" width="120" height="60" as="geometry" />
