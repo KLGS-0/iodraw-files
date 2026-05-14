@@ -456,6 +456,12 @@
         <mxCell id="l3s28bpuGz4_rZzrTG9j-122" value="&lt;span style=&quot;text-align: left;&quot;&gt;留着用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l3s28bpuGz4_rZzrTG9j-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l3s28bpuGz4_rZzrTG9j-125" target="l3s28bpuGz4_rZzrTG9j-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l3s28bpuGz4_rZzrTG9j-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l3s28bpuGz4_rZzrTG9j-125" target="l3s28bpuGz4_rZzrTG9j-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-125" value="IT类(暂时无用)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="2200" width="120" height="60" as="geometry" />
         </mxCell>
