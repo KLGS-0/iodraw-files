@@ -297,6 +297,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="l3s28bpuGz4_rZzrTG9j-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="04ZfChHDkT95PeSDl9Xv-24" target="s1_7wkwgumw2aOLhDC7u-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="04ZfChHDkT95PeSDl9Xv-24" value="IT类(暂时无用)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
