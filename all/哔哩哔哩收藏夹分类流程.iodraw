@@ -119,15 +119,15 @@
         <mxCell id="lkgZSFcereNKrcgJkRFR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKbG-ukf4XjlhOMUDHtM-51" target="lkgZSFcereNKrcgJkRFR-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1060" y="550" />
+              <mxPoint x="1180" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKbG-ukf4XjlhOMUDHtM-51" target="lkgZSFcereNKrcgJkRFR-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1220" y="550" />
-              <mxPoint x="1220" y="730" />
+              <mxPoint x="1340" y="550" />
+              <mxPoint x="1340" y="730" />
               <mxPoint x="1180" y="730" />
             </Array>
           </mxGeometry>
