@@ -446,6 +446,9 @@
         <mxCell id="l3s28bpuGz4_rZzrTG9j-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l3s28bpuGz4_rZzrTG9j-42" target="l3s28bpuGz4_rZzrTG9j-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l3s28bpuGz4_rZzrTG9j-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l3s28bpuGz4_rZzrTG9j-42" target="l3s28bpuGz4_rZzrTG9j-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-42" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="2200" width="120" height="60" as="geometry" />
         </mxCell>
