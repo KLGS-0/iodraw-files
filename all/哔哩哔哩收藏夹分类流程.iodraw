@@ -433,16 +433,16 @@
           <mxGeometry x="1270" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-44" value="&lt;span style=&quot;text-align: left;&quot;&gt;项目下载&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-46" value="&lt;span style=&quot;text-align: left;&quot;&gt;留着用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-50" value="IT类(暂时无用)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-52" value="&lt;span style=&quot;text-align: left;&quot;&gt;没啥用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
