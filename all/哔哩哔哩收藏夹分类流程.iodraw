@@ -236,6 +236,9 @@
         <mxCell id="s1_7wkwgumw2aOLhDC7u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="04ZfChHDkT95PeSDl9Xv-7" target="s1_7wkwgumw2aOLhDC7u-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l3s28bpuGz4_rZzrTG9j-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="04ZfChHDkT95PeSDl9Xv-7" target="l3s28bpuGz4_rZzrTG9j-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="04ZfChHDkT95PeSDl9Xv-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -413,6 +416,9 @@
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;单项事&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l3s28bpuGz4_rZzrTG9j-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
