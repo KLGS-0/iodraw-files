@@ -296,7 +296,7 @@
         <mxCell id="fivvTltgipui3nkq-NXH-1" value="繁" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QX7AiPN__2uwLQ27SLXq-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="QX7AiPN__2uwLQ27SLXq-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="480" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
