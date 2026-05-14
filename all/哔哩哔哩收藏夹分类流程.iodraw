@@ -361,18 +361,18 @@
         <mxCell id="lkgZSFcereNKrcgJkRFR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkgZSFcereNKrcgJkRFR-40" target="lkgZSFcereNKrcgJkRFR-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1220" y="909.91" />
+              <mxPoint x="1339.94" y="909.91" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-40" value="&lt;span style=&quot;text-align: left;&quot;&gt;使用学习&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="759.91" width="120" height="60" as="geometry" />
+          <mxGeometry x="1279.94" y="759.91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lkgZSFcereNKrcgJkRFR-44" target="lkgZSFcereNKrcgJkRFR-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1090" y="729.91" />
-              <mxPoint x="1090" y="729.91" />
+              <mxPoint x="1209.94" y="729.91" />
+              <mxPoint x="1209.94" y="729.91" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -383,13 +383,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-44" value="&lt;span style=&quot;text-align: left;&quot;&gt;项目下载&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="759.91" width="120" height="60" as="geometry" />
+          <mxGeometry x="1119.94" y="759.91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lkgZSFcereNKrcgJkRFR-46" target="lkgZSFcereNKrcgJkRFR-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-46" value="&lt;span style=&quot;text-align: left;&quot;&gt;留着用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="879.91" width="120" height="60" as="geometry" />
+          <mxGeometry x="1119.94" y="879.91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkgZSFcereNKrcgJkRFR-50" target="lkgZSFcereNKrcgJkRFR-44">
           <mxGeometry relative="1" as="geometry" />
@@ -398,10 +398,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-50" value="IT类(暂时无用)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="639.91" width="120" height="60" as="geometry" />
+          <mxGeometry x="1119.94" y="639.91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-52" value="&lt;span style=&quot;text-align: left;&quot;&gt;没啥用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="999.91" width="120" height="60" as="geometry" />
+          <mxGeometry x="1119.94" y="999.91" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
