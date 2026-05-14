@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RKbG-ukf4XjlhOMUDHtM-80" value="是否是IT类内容" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="1240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1240" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GnQjiI2VIBksbcrT3Xe6-6" target="GnQjiI2VIBksbcrT3Xe6-13" edge="1">
           <mxGeometry relative="1" as="geometry">
