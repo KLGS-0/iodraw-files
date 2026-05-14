@@ -296,9 +296,9 @@
         <mxCell id="fivvTltgipui3nkq-NXH-1" value="繁" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QX7AiPN__2uwLQ27SLXq-2" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1200" width="50" height="40" as="geometry">
-            <mxRectangle x="1200" width="640" height="970" as="alternateBounds" />
+        <mxCell id="QX7AiPN__2uwLQ27SLXq-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" width="640" height="970" as="geometry">
+            <mxRectangle x="1200" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
