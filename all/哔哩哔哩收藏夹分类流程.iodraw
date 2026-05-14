@@ -426,30 +426,11 @@
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-60" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;武术&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lkgZSFcereNKrcgJkRFR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkgZSFcereNKrcgJkRFR-37" target="lkgZSFcereNKrcgJkRFR-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="980" y="1320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1340" y="1290" />
-              <mxPoint x="1100" y="1290" />
-              <mxPoint x="1100" y="1330" />
-              <mxPoint x="1180" y="1330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lkgZSFcereNKrcgJkRFR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkgZSFcereNKrcgJkRFR-37" target="lkgZSFcereNKrcgJkRFR-50">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1340" y="1290" />
-              <mxPoint x="860" y="1290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-37" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT类待整(混沌态)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-40" value="&lt;span style=&quot;text-align: left;&quot;&gt;使用学习&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1270" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-44" value="&lt;span style=&quot;text-align: left;&quot;&gt;项目下载&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1360" width="120" height="60" as="geometry" />
@@ -458,7 +439,7 @@
           <mxGeometry x="1040" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-50" value="IT类(暂时无用)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1320" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lkgZSFcereNKrcgJkRFR-52" value="&lt;span style=&quot;text-align: left;&quot;&gt;没啥用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1600" width="120" height="60" as="geometry" />
