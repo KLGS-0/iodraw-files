@@ -381,10 +381,7 @@
         <mxCell id="04ZfChHDkT95PeSDl9Xv-32" value="&lt;span style=&quot;text-align: left;&quot;&gt;没用小知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3160" y="1919.91" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="04ZfChHDkT95PeSDl9Xv-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="04ZfChHDkT95PeSDl9Xv-34" target="04ZfChHDkT95PeSDl9Xv-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="04ZfChHDkT95PeSDl9Xv-34" value="胶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="04ZfChHDkT95PeSDl9Xv-34" value="胶类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3320" y="1799.91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="04ZfChHDkT95PeSDl9Xv-35" value="手工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
