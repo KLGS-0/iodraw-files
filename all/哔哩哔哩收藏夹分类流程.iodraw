@@ -402,10 +402,10 @@
         <mxCell id="l3s28bpuGz4_rZzrTG9j-129" value="使用学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l3s28bpuGz4_rZzrTG9j-151" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="l3s28bpuGz4_rZzrTG9j-151" value="jkl" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l3s28bpuGz4_rZzrTG9j-153" value="jkl" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="l3s28bpuGz4_rZzrTG9j-153" value="jkl" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.2;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="250" y="1580" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
