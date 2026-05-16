@@ -405,12 +405,6 @@
         <mxCell id="l3s28bpuGz4_rZzrTG9j-151" value="jkl" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l3s28bpuGz4_rZzrTG9j-153" value="jkl" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.2;arcSize=6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1580" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l3s28bpuGz4_rZzrTG9j-154" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="1638" width="50" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
