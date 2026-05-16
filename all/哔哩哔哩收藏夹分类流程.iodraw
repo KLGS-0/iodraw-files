@@ -405,6 +405,9 @@
         <mxCell id="l3s28bpuGz4_rZzrTG9j-147" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="1590" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="l3s28bpuGz4_rZzrTG9j-148" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1230" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
