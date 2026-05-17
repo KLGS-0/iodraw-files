@@ -436,14 +436,8 @@
         <mxCell id="l3s28bpuGz4_rZzrTG9j-168" value="远程控制相关内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l3s28bpuGz4_rZzrTG9j-156">
           <mxGeometry x="40" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l3s28bpuGz4_rZzrTG9j-169" value="专项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1050" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l3s28bpuGz4_rZzrTG9j-171" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1170" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l3s28bpuGz4_rZzrTG9j-172" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1170" width="60" height="30" as="geometry" />
+        <mxCell id="l3s28bpuGz4_rZzrTG9j-172" value="专项" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1110" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
