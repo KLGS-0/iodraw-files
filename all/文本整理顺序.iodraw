@@ -77,6 +77,9 @@
         <mxCell id="Px_kAlENZFl4mQWEln_4-7" value="杂七杂八" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1240" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cLWV2pJ0h7IS5E0UQj8V-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Px_kAlENZFl4mQWEln_4-8" target="q5gkBm8GOVT8Ci0ZX-hW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Px_kAlENZFl4mQWEln_4-8" value="杂写" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-480" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -111,7 +114,7 @@
           <mxGeometry x="760" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-1" value="杂思.txt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="-600" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Jxcd9resC_ldleYhXv89-3" target="Jxcd9resC_ldleYhXv89-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
