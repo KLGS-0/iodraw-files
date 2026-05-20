@@ -114,7 +114,7 @@
           <mxGeometry x="760" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-1" value="杂思.txt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="-600" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Jxcd9resC_ldleYhXv89-3" target="Jxcd9resC_ldleYhXv89-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
