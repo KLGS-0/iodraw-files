@@ -142,7 +142,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-71" value="无时间近似&lt;div&gt;达到合并数的文件&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-71" value="孤立文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="560" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
