@@ -16,8 +16,11 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="200" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-10" value="主类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
           <mxGeometry width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
+          <mxGeometry y="100" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
