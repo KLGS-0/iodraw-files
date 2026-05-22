@@ -27,6 +27,9 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-13" value="" style="swimlane;startSize=0;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
           <mxGeometry x="40" width="160" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-18" value="一大堆主类文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-13">
+          <mxGeometry x="25" y="35" width="110" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="zWG1OIAtKNjW2M_XosIc-7" source="zWG1OIAtKNjW2M_XosIc-7" target="zWG1OIAtKNjW2M_XosIc-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="180" as="sourcePoint" />
@@ -38,9 +41,6 @@
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-16" value="非主类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="40" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="575" y="238" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
