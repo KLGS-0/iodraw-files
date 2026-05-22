@@ -45,8 +45,8 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-17" value="主类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
           <mxGeometry width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-16" value="非主类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="320" width="40" height="100" as="geometry" />
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-16" value="非主类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
+          <mxGeometry y="100" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-20" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="200" width="200" height="200" as="geometry" />
@@ -71,6 +71,9 @@
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-26" value="主类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-20">
           <mxGeometry width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-28" value="非主类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
