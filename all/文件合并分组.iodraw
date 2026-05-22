@@ -29,11 +29,6 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-31" value="非主类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="560" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-34" value="首轮处理&lt;div&gt;格式分离&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="359.99695203260876" y="510.00378953126676" as="geometry">
-            <mxPoint x="3" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-35" value="根" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="480" width="40" height="60" as="geometry" />
         </mxCell>
@@ -121,6 +116,9 @@
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-62" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;需要手动写匹配规则&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-63" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
