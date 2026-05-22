@@ -64,7 +64,7 @@
             <mxPoint x="800" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-47" value="名称合并" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWG1OIAtKNjW2M_XosIc-46">
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-47" value="时间分组" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWG1OIAtKNjW2M_XosIc-46">
           <mxGeometry x="-0.402" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="-2" as="offset" />
           </mxGeometry>
