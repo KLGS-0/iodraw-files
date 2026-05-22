@@ -20,7 +20,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-66" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWG1OIAtKNjW2M_XosIc-33">
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-66" value="首轮处理&lt;div&gt;格式分离&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWG1OIAtKNjW2M_XosIc-33">
           <mxGeometry x="-0.4032" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -50,7 +50,7 @@
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-44" value="名称合并" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWG1OIAtKNjW2M_XosIc-43">
           <mxGeometry x="-0.402" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-2" as="offset" />
+            <mxPoint x="-2" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;一大堆主类文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
