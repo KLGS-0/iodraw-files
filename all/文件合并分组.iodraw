@@ -4,10 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zWG1OIAtKNjW2M_XosIc-3" target="zWG1OIAtKNjW2M_XosIc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-6" value="一大堆文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-3">
+          <mxGeometry x="60" y="85" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-8" value="一大堆文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
           <mxGeometry x="60" y="85" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
