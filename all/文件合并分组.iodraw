@@ -174,7 +174,7 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-80" value="时间二" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1200" y="320" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-81" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;时间近似文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-81" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;尺寸近似文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="zWG1OIAtKNjW2M_XosIc-85">
