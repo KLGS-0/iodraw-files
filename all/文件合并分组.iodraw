@@ -24,6 +24,9 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-14" value="" style="swimlane;startSize=0;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
           <mxGeometry x="40" y="100" width="160" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-19" value="一大堆非主类文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-14">
+          <mxGeometry x="20" y="35" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-13" value="" style="swimlane;startSize=0;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
           <mxGeometry x="40" width="160" height="100" as="geometry" />
         </mxCell>
@@ -41,9 +44,6 @@
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-16" value="非主类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="40" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-19" value="一大堆非主类文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="750" y="335" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
