@@ -7,6 +7,11 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zWG1OIAtKNjW2M_XosIc-3" target="zWG1OIAtKNjW2M_XosIc-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWG1OIAtKNjW2M_XosIc-9">
+          <mxGeometry x="-0.004" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="200" height="200" as="geometry" />
         </mxCell>
@@ -15,9 +20,6 @@
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="200" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-10" value="主类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
-          <mxGeometry width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
