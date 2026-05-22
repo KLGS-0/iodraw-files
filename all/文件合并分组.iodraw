@@ -82,6 +82,12 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-35" value="根" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="480" width="40" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;一大堆主类文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-37" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;一大堆主类文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
