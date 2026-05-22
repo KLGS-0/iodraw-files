@@ -117,9 +117,6 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-62" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;需要手动写匹配规则&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-63" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="460" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
