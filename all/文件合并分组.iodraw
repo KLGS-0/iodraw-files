@@ -31,6 +31,11 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zWG1OIAtKNjW2M_XosIc-36" target="zWG1OIAtKNjW2M_XosIc-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-44" value="名称合并" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWG1OIAtKNjW2M_XosIc-43">
+          <mxGeometry x="-0.402" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-36" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;一大堆主类文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
         </mxCell>
