@@ -24,13 +24,10 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-14" value="" style="swimlane;startSize=0;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
           <mxGeometry x="40" y="100" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-13" value="" style="swimlane;startSize=0;" vertex="1" parent="zWG1OIAtKNjW2M_XosIc-7">
-          <mxGeometry x="40" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="zWG1OIAtKNjW2M_XosIc-7" source="zWG1OIAtKNjW2M_XosIc-7" target="zWG1OIAtKNjW2M_XosIc-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="380" as="sourcePoint" />
-            <mxPoint x="560" y="330" as="targetPoint" />
+            <mxPoint x="30" y="180" as="sourcePoint" />
+            <mxPoint x="80" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
