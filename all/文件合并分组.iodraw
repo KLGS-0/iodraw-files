@@ -277,10 +277,9 @@
         <mxCell id="zWG1OIAtKNjW2M_XosIc-105" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;尺寸近似文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zWG1OIAtKNjW2M_XosIc-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="zWG1OIAtKNjW2M_XosIc-109">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="790" as="sourcePoint" />
-            <mxPoint x="1200.0000000000005" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-107" value="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWG1OIAtKNjW2M_XosIc-106">
@@ -293,11 +292,26 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-109" value="剩余文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1000" width="160" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-110" value="孤立文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zWG1OIAtKNjW2M_XosIc-111" value="剩余文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-113" value="孤立文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="570" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-114" value="剩余文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="490" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-115" value="孤立文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWG1OIAtKNjW2M_XosIc-116" value="剩余文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
