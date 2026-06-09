@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="43UvAfqpGmYM2EPG-_4d-13" value="-2, 1, -3=-4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="43UvAfqpGmYM2EPG-_4d-13" value="2, 1, -3=-4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="43UvAfqpGmYM2EPG-_4d-14" value="4, -1=3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -56,7 +56,7 @@
         <mxCell id="43UvAfqpGmYM2EPG-_4d-22" value="-1=-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="43UvAfqpGmYM2EPG-_4d-25" value="-2, 1=-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="43UvAfqpGmYM2EPG-_4d-25" value="2, 1=-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="43UvAfqpGmYM2EPG-_4d-26" value="-3=-3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
