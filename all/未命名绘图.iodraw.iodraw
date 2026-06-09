@@ -16,12 +16,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="940" y="450" />
-              <mxPoint x="1340" y="450" />
+              <mxPoint x="1100" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="43UvAfqpGmYM2EPG-_4d-6" value="-2, 1, -3, 4, -1, 2, 1, -5, 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="360" width="160" height="60" as="geometry" />
+          <mxGeometry x="780" y="360" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="43UvAfqpGmYM2EPG-_4d-7" value="-2, 1, -3, 4, -1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="480" width="120" height="60" as="geometry" />
