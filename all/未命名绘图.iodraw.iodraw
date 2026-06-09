@@ -179,6 +179,26 @@
         <mxCell id="43UvAfqpGmYM2EPG-_4d-43" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="43UvAfqpGmYM2EPG-_4d-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="660" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1540" y="690" />
+              <mxPoint x="1480" y="690" />
+            </Array>
+            <mxPoint x="1480" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43UvAfqpGmYM2EPG-_4d-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="660" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1540" y="690" />
+              <mxPoint x="1600" y="690" />
+            </Array>
+            <mxPoint x="1600" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
