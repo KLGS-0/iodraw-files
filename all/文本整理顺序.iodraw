@@ -475,6 +475,15 @@
         <mxCell id="0vn5AaToEaKhxOWkokhu-28" value="编写代码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0vn5AaToEaKhxOWkokhu-29" value="&lt;div&gt;电脑快捷键.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0vn5AaToEaKhxOWkokhu-30" value="&lt;div&gt;快捷键开发.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0vn5AaToEaKhxOWkokhu-31" value="&lt;div&gt;项目研发.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
