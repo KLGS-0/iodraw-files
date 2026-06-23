@@ -197,9 +197,9 @@
         <mxCell id="fivvTltgipui3nkq-NXH-1" value="简繁流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QX7AiPN__2uwLQ27SLXq-2" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="40" width="360" height="980" as="geometry">
-            <mxRectangle x="1200" y="40" width="50" height="40" as="alternateBounds" />
+        <mxCell id="QX7AiPN__2uwLQ27SLXq-2" value="" style="swimlane;startSize=0;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="1200" width="50" height="40" as="geometry">
+            <mxRectangle x="1200" y="40" width="360" height="980" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QX7AiPN__2uwLQ27SLXq-2" source="Px_kAlENZFl4mQWEln_4-7" target="Jxcd9resC_ldleYhXv89-3" edge="1">
