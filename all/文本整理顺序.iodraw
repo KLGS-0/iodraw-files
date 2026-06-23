@@ -15,6 +15,9 @@
             <mxPoint x="-1040" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0vn5AaToEaKhxOWkokhu-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtP6x8zqLMq3wdKettYp-6" target="0vn5AaToEaKhxOWkokhu-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WtP6x8zqLMq3wdKettYp-6" value="待整.预分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1100" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -476,6 +479,9 @@
         </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-31" value="&lt;div&gt;项目研发.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0vn5AaToEaKhxOWkokhu-35" value="待整.预分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
