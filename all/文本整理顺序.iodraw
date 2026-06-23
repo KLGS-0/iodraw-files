@@ -411,6 +411,12 @@
         <mxCell id="pzW6X3gbCLZXVqcYwnkm-51" value="思考逻辑" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wbNlAlgwpvFmE557tW4q-1" value="bat批处理" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wbNlAlgwpvFmE557tW4q-2" value="鸣潮" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
