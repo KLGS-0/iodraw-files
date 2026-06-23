@@ -371,7 +371,7 @@
         <mxCell id="Jxcd9resC_ldleYhXv89-93" value="网盘,txt" style="whiteSpace=wrap;html=1;rounded=0;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
           <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jxcd9resC_ldleYhXv89-94" value="网址.txt" style="rounded=0;whiteSpace=wrap;html=1;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
+        <mxCell id="Jxcd9resC_ldleYhXv89-94" value="资源统合&lt;span style=&quot;background-color: initial;&quot;&gt;网址.txt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
           <mxGeometry x="440" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-95" value="记事本.txt" style="rounded=0;whiteSpace=wrap;html=1;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
