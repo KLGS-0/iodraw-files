@@ -416,8 +416,10 @@
         <mxCell id="wbNlAlgwpvFmE557tW4q-23" value="本子名.txt" style="whiteSpace=wrap;html=1;rounded=0;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
           <mxGeometry x="40" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0vn5AaToEaKhxOWkokhu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wbNlAlgwpvFmE557tW4q-21" target="0vn5AaToEaKhxOWkokhu-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0vn5AaToEaKhxOWkokhu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wbNlAlgwpvFmE557tW4q-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wbNlAlgwpvFmE557tW4q-21" value="&lt;div&gt;U盘电脑文件同步.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
@@ -428,11 +430,10 @@
         <mxCell id="0vn5AaToEaKhxOWkokhu-1" value="搁置事项" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0vn5AaToEaKhxOWkokhu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0vn5AaToEaKhxOWkokhu-2" target="0vn5AaToEaKhxOWkokhu-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0vn5AaToEaKhxOWkokhu-2" value="&lt;div&gt;win+R常用命令.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="0vn5AaToEaKhxOWkokhu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0vn5AaToEaKhxOWkokhu-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="340" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0vn5AaToEaKhxOWkokhu-6" target="0vn5AaToEaKhxOWkokhu-7">
           <mxGeometry relative="1" as="geometry" />
