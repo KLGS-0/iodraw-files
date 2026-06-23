@@ -419,7 +419,7 @@
         <mxCell id="0vn5AaToEaKhxOWkokhu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wbNlAlgwpvFmE557tW4q-21" target="0vn5AaToEaKhxOWkokhu-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wbNlAlgwpvFmE557tW4q-21" value="项目研发.txt" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wbNlAlgwpvFmE557tW4q-21" value="&lt;div&gt;U盘电脑文件同步.txt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0vn5AaToEaKhxOWkokhu-1" target="wbNlAlgwpvFmE557tW4q-21">
