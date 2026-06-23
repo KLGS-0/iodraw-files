@@ -389,6 +389,9 @@
         <mxCell id="YoL-Q2_2L8CWW30o1mcu-8" value="PicACG画师.txt" style="whiteSpace=wrap;html=1;rounded=0;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wbNlAlgwpvFmE557tW4q-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wbNlAlgwpvFmE557tW4q-20" source="YoL-Q2_2L8CWW30o1mcu-10" target="wbNlAlgwpvFmE557tW4q-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YoL-Q2_2L8CWW30o1mcu-10" value="&amp;nbsp;pixiv.txt" style="whiteSpace=wrap;html=1;rounded=0;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
           <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -406,6 +409,12 @@
         </mxCell>
         <mxCell id="YoL-Q2_2L8CWW30o1mcu-16" value="拼胶.txt" style="whiteSpace=wrap;html=1;rounded=0;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
           <mxGeometry x="40" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wbNlAlgwpvFmE557tW4q-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wbNlAlgwpvFmE557tW4q-20" source="wbNlAlgwpvFmE557tW4q-23" target="YoL-Q2_2L8CWW30o1mcu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbNlAlgwpvFmE557tW4q-23" value="本子名.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="wbNlAlgwpvFmE557tW4q-20">
+          <mxGeometry x="40" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wbNlAlgwpvFmE557tW4q-21" value="项目研发.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
