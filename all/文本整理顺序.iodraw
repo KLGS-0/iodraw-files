@@ -459,27 +459,22 @@
         <mxCell id="0vn5AaToEaKhxOWkokhu-15" value="&lt;div&gt;快速提炼信息.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0vn5AaToEaKhxOWkokhu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0vn5AaToEaKhxOWkokhu-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="999.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-17" value="&lt;div&gt;软件集.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0vn5AaToEaKhxOWkokhu-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="1300" as="sourcePoint" />
+            <mxPoint x="140" y="940" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0vn5AaToEaKhxOWkokhu-25" target="0vn5AaToEaKhxOWkokhu-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-25" value="&lt;div&gt;项目研发.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-26" value="&lt;div&gt;远程控制.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
