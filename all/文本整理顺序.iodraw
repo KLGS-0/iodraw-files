@@ -431,16 +431,6 @@
             <mxPoint x="140.00000000000045" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0vn5AaToEaKhxOWkokhu-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0vn5AaToEaKhxOWkokhu-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="340" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0vn5AaToEaKhxOWkokhu-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0vn5AaToEaKhxOWkokhu-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-7" value="&lt;div&gt;会说话.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -458,19 +448,13 @@
         <mxCell id="0vn5AaToEaKhxOWkokhu-17" value="&lt;div&gt;软件集.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0vn5AaToEaKhxOWkokhu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="820" as="sourcePoint" />
-            <mxPoint x="140.00000000000045" y="879.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0vn5AaToEaKhxOWkokhu-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="939.9999999999998" as="sourcePoint" />
+            <mxPoint x="140" y="819.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-26" value="&lt;div&gt;远程控制.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0vn5AaToEaKhxOWkokhu-28" target="0vn5AaToEaKhxOWkokhu-29">
           <mxGeometry relative="1" as="geometry" />
