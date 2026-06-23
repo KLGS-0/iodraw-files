@@ -317,7 +317,7 @@
         <mxCell id="Jxcd9resC_ldleYhXv89-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wbNlAlgwpvFmE557tW4q-20" source="Jxcd9resC_ldleYhXv89-27" target="Jxcd9resC_ldleYhXv89-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jxcd9resC_ldleYhXv89-27" value="待整理网址" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
+        <mxCell id="Jxcd9resC_ldleYhXv89-27" value="网址" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
           <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wbNlAlgwpvFmE557tW4q-20" source="Jxcd9resC_ldleYhXv89-75" target="Jxcd9resC_ldleYhXv89-77" edge="1">
