@@ -356,7 +356,7 @@
         <mxCell id="Jxcd9resC_ldleYhXv89-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wbNlAlgwpvFmE557tW4q-20" source="Jxcd9resC_ldleYhXv89-89" target="Jxcd9resC_ldleYhXv89-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jxcd9resC_ldleYhXv89-89" value="其他网址.txt" style="whiteSpace=wrap;html=1;rounded=0;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
+        <mxCell id="Jxcd9resC_ldleYhXv89-89" value="&amp;nbsp;磁力链.txt" style="whiteSpace=wrap;html=1;rounded=0;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
           <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wbNlAlgwpvFmE557tW4q-20" source="Jxcd9resC_ldleYhXv89-91" target="Jxcd9resC_ldleYhXv89-93" edge="1">
@@ -368,7 +368,7 @@
         <mxCell id="Jxcd9resC_ldleYhXv89-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wbNlAlgwpvFmE557tW4q-20" source="Jxcd9resC_ldleYhXv89-93" target="Jxcd9resC_ldleYhXv89-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jxcd9resC_ldleYhXv89-93" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
+        <mxCell id="Jxcd9resC_ldleYhXv89-93" value="网盘,txt" style="whiteSpace=wrap;html=1;rounded=0;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
           <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jxcd9resC_ldleYhXv89-94" value="网址.txt" style="rounded=0;whiteSpace=wrap;html=1;" parent="wbNlAlgwpvFmE557tW4q-20" vertex="1">
