@@ -492,9 +492,9 @@
         <mxCell id="ET5mD1Wxg9bYXzuygh24-7" value="待整.预分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1870" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ET5mD1Wxg9bYXzuygh24-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1880" y="120" width="140" height="80" as="geometry">
-            <mxRectangle x="-1090" y="190" width="50" height="40" as="alternateBounds" />
+        <mxCell id="ET5mD1Wxg9bYXzuygh24-8" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-1880" y="120" width="50" height="40" as="geometry">
+            <mxRectangle x="-1880" y="120" width="140" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
