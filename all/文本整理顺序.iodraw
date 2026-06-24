@@ -555,6 +555,9 @@
         <mxCell id="--rLkz1E7t8aWVzr7mi8-15" value="项目研发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-7">
           <mxGeometry y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="--rLkz1E7t8aWVzr7mi8-16" value="bat小垃圾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-7">
+          <mxGeometry y="520" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
