@@ -506,9 +506,9 @@
         <mxCell id="ET5mD1Wxg9bYXzuygh24-26" value="专用专记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ET5mD1Wxg9bYXzuygh24-20">
           <mxGeometry y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ET5mD1Wxg9bYXzuygh24-29" value="待整.预分类&#xa;" style="swimlane;startSize=0;fontStyle=0;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-1880" y="40" width="100" height="30" as="geometry">
-            <mxRectangle x="-1720" y="40" width="120" height="320" as="alternateBounds" />
+        <mxCell id="ET5mD1Wxg9bYXzuygh24-29" value="待整.预分类&#xa;" style="swimlane;startSize=0;fontStyle=0;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1880" y="40" width="120" height="320" as="geometry">
+            <mxRectangle x="-1880" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ET5mD1Wxg9bYXzuygh24-30" value="事项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ET5mD1Wxg9bYXzuygh24-29">
