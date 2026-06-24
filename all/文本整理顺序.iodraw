@@ -489,11 +489,13 @@
         <mxCell id="0vn5AaToEaKhxOWkokhu-38" value="专用专记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-920" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ET5mD1Wxg9bYXzuygh24-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1320" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ET5mD1Wxg9bYXzuygh24-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1320" y="180" width="120" height="60" as="geometry">
+            <mxRectangle x="-1320" y="180" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ET5mD1Wxg9bYXzuygh24-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ET5mD1Wxg9bYXzuygh24-1">
+          <mxGeometry y="-10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
