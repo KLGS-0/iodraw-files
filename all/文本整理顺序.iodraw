@@ -511,7 +511,7 @@
             <mxRectangle x="-1880" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ET5mD1Wxg9bYXzuygh24-30" value="事项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ET5mD1Wxg9bYXzuygh24-29">
+        <mxCell id="ET5mD1Wxg9bYXzuygh24-30" value="速简繁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ET5mD1Wxg9bYXzuygh24-29">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET5mD1Wxg9bYXzuygh24-31" value="编写代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ET5mD1Wxg9bYXzuygh24-29">
