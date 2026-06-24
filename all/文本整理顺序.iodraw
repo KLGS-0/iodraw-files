@@ -526,7 +526,7 @@
         <mxCell id="--rLkz1E7t8aWVzr7mi8-6" value="事项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-1">
           <mxGeometry y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-7" value="单项事(小类)" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" parent="1">
+        <mxCell id="--rLkz1E7t8aWVzr7mi8-7" value="简繁流程(小类)" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="40" width="120" height="400" as="geometry">
             <mxRectangle x="-1880" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
