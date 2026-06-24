@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="aUFf117jgX8lVeDBaX0I">
-    <mxGraphModel dx="2409" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2286" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -489,9 +489,9 @@
         <mxCell id="0vn5AaToEaKhxOWkokhu-38" value="专用专记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-900" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ET5mD1Wxg9bYXzuygh24-20" value="待整.预分类&#xa;" style="swimlane;startSize=0;fontStyle=0;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-1720" y="40" width="100" height="30" as="geometry">
-            <mxRectangle x="-1720" y="40" width="120" height="320" as="alternateBounds" />
+        <mxCell id="ET5mD1Wxg9bYXzuygh24-20" value="待整.预分类&#xa;" style="swimlane;startSize=0;fontStyle=0;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1720" y="40" width="120" height="320" as="geometry">
+            <mxRectangle x="-1720" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ET5mD1Wxg9bYXzuygh24-23" value="事项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ET5mD1Wxg9bYXzuygh24-20">
@@ -507,7 +507,7 @@
           <mxGeometry y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET5mD1Wxg9bYXzuygh24-29" value="待整.预分类&#xa;" style="swimlane;startSize=0;fontStyle=0;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-1710" y="50" width="100" height="30" as="geometry">
+          <mxGeometry x="-1880" y="40" width="100" height="30" as="geometry">
             <mxRectangle x="-1720" y="40" width="120" height="320" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
