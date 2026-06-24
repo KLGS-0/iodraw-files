@@ -281,7 +281,7 @@
         <mxCell id="wbNlAlgwpvFmE557tW4q-2" value="鸣潮" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="840" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wbNlAlgwpvFmE557tW4q-20" value="专用专记" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;align=left;" parent="1" vertex="1">
+        <mxCell id="wbNlAlgwpvFmE557tW4q-20" value="专用专记内文件" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;align=left;" parent="1" vertex="1">
           <mxGeometry x="1000" y="40" width="600" height="1000" as="geometry">
             <mxRectangle x="1000" y="40" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
