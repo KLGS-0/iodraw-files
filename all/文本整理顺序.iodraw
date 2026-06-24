@@ -16,9 +16,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtP6x8zqLMq3wdKettYp-6" target="0vn5AaToEaKhxOWkokhu-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="190" />
+              <mxPoint x="-180" y="70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WtP6x8zqLMq3wdKettYp-6" target="0vn5AaToEaKhxOWkokhu-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="--rLkz1E7t8aWVzr7mi8-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtP6x8zqLMq3wdKettYp-6" target="--rLkz1E7t8aWVzr7mi8-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WtP6x8zqLMq3wdKettYp-6" value="待整.预分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -577,6 +585,15 @@
         </mxCell>
         <mxCell id="--rLkz1E7t8aWVzr7mi8-31" value="鸣潮" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-160" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="--rLkz1E7t8aWVzr7mi8-33" value="编写代码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="--rLkz1E7t8aWVzr7mi8-34" value="专用专记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="--rLkz1E7t8aWVzr7mi8-35" value="鸣潮" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
