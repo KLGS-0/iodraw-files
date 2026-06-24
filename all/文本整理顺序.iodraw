@@ -537,7 +537,7 @@
         <mxCell id="--rLkz1E7t8aWVzr7mi8-9" value="wallpaper标题获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-7">
           <mxGeometry y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-10" value="时间轴任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-7">
+        <mxCell id="--rLkz1E7t8aWVzr7mi8-10" value="AI对话总结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-7">
           <mxGeometry y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="--rLkz1E7t8aWVzr7mi8-11" value="记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-7">
