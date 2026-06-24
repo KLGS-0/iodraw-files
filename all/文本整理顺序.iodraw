@@ -490,7 +490,7 @@
           <mxGeometry x="-900" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET5mD1Wxg9bYXzuygh24-8" value="铃兰" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-1860" y="120" width="50" height="40" as="geometry">
+          <mxGeometry x="-1840" y="120" width="50" height="40" as="geometry">
             <mxRectangle x="-1860" y="120" width="140" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
