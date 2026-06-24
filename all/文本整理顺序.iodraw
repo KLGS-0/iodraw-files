@@ -568,7 +568,7 @@
           <mxGeometry y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="--rLkz1E7t8aWVzr7mi8-17" value="做事(小类)" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-1480" y="40" width="120" height="600" as="geometry">
+          <mxGeometry x="-1480" y="40" width="120" height="320" as="geometry">
             <mxRectangle x="-1880" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -581,23 +581,8 @@
         <mxCell id="--rLkz1E7t8aWVzr7mi8-20" value="事" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-17">
           <mxGeometry y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-21" value="AI写代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-17">
+        <mxCell id="--rLkz1E7t8aWVzr7mi8-21" value="事项描述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-17">
           <mxGeometry y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-22" value="wallpaper相关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-17">
-          <mxGeometry y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-23" value="文件整理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-17">
-          <mxGeometry y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-24" value="爬虫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-17">
-          <mxGeometry y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-25" value="项目研发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-17">
-          <mxGeometry y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-26" value="bat小垃圾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-17">
-          <mxGeometry y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
