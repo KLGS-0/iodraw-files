@@ -527,7 +527,7 @@
           <mxGeometry y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="--rLkz1E7t8aWVzr7mi8-17" value="做事(小类)" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="40" width="120" height="320" as="geometry">
+          <mxGeometry x="-1440" y="80" width="120" height="320" as="geometry">
             <mxRectangle x="-1880" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -561,7 +561,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="--rLkz1E7t8aWVzr7mi8-43" value="单项事(小类)" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-1120" y="40" width="120" height="400" as="geometry">
+          <mxGeometry x="-960" y="40" width="120" height="400" as="geometry">
             <mxRectangle x="-1880" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -581,7 +581,7 @@
           <mxGeometry y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="--rLkz1E7t8aWVzr7mi8-49" value="简繁流程(小类)" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="40" width="120" height="600" as="geometry">
+          <mxGeometry x="-800" y="40" width="120" height="600" as="geometry">
             <mxRectangle x="-1880" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
