@@ -571,9 +571,6 @@
         <mxCell id="--rLkz1E7t8aWVzr7mi8-46" value="时间轴任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-43">
           <mxGeometry y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-47" value="记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-43">
-          <mxGeometry y="220" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="--rLkz1E7t8aWVzr7mi8-48" value="事项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-43">
           <mxGeometry y="280" width="120" height="60" as="geometry" />
         </mxCell>
