@@ -537,9 +537,6 @@
         <mxCell id="--rLkz1E7t8aWVzr7mi8-19" value="可做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-17">
           <mxGeometry y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-20" value="记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-17">
-          <mxGeometry y="160" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="--rLkz1E7t8aWVzr7mi8-21" value="事项描述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="--rLkz1E7t8aWVzr7mi8-17">
           <mxGeometry y="220" width="120" height="60" as="geometry" />
         </mxCell>
