@@ -574,7 +574,7 @@
           <mxGeometry y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="--rLkz1E7t8aWVzr7mi8-49" value="简繁流程(小类)" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=middle;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="40" width="120" height="600" as="geometry">
+          <mxGeometry x="-800" y="40" width="120" height="480" as="geometry">
             <mxRectangle x="-1880" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
