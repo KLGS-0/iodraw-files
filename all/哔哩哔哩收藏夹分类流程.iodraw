@@ -410,31 +410,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-157" value="快速学习" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
-          <mxGeometry y="160" width="120" height="60" as="geometry" />
+          <mxGeometry y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-158" value="AI，API" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
-          <mxGeometry y="240" width="120" height="60" as="geometry" />
+          <mxGeometry y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-162" value="GitHub" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
-          <mxGeometry y="320" width="120" height="60" as="geometry" />
+          <mxGeometry y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-163" value="玄离199" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
-          <mxGeometry y="400" width="120" height="60" as="geometry" />
+          <mxGeometry y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-164" value="网络" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
-          <mxGeometry y="480" width="120" height="60" as="geometry" />
+          <mxGeometry y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-165" value="Chrome相关" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
-          <mxGeometry y="560" width="120" height="60" as="geometry" />
+          <mxGeometry y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-166" value="办公软件" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
-          <mxGeometry y="640" width="120" height="60" as="geometry" />
+          <mxGeometry y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-167" value="FFmpeg" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
-          <mxGeometry y="720" width="120" height="60" as="geometry" />
+          <mxGeometry y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-168" value="远程控制相关内容" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
-          <mxGeometry y="800" width="120" height="60" as="geometry" />
+          <mxGeometry y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qHSLNvMSYXP6I48hjFv4-1" value="健身" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l3s28bpuGz4_rZzrTG9j-156">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
