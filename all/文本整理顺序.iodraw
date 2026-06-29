@@ -599,12 +599,6 @@
         <mxCell id="--rLkz1E7t8aWVzr7mi8-56" value="爬虫" style="rounded=0;whiteSpace=wrap;html=1;" parent="--rLkz1E7t8aWVzr7mi8-49" vertex="1">
           <mxGeometry y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-57" value="项目研发" style="rounded=0;whiteSpace=wrap;html=1;" parent="--rLkz1E7t8aWVzr7mi8-49" vertex="1">
-          <mxGeometry y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-58" value="bat小垃圾" style="rounded=0;whiteSpace=wrap;html=1;" parent="--rLkz1E7t8aWVzr7mi8-49" vertex="1">
-          <mxGeometry y="520" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PmGxOaOCATCe5ADnINGN-1" value="&lt;div&gt;bat小垃圾.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
