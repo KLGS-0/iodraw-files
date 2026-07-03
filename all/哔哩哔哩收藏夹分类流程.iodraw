@@ -436,7 +436,7 @@
         <mxCell id="l3s28bpuGz4_rZzrTG9j-168" value="远程控制相关内容" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
           <mxGeometry y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qHSLNvMSYXP6I48hjFv4-1" value="健身" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l3s28bpuGz4_rZzrTG9j-156">
+        <mxCell id="qHSLNvMSYXP6I48hjFv4-1" value="健身" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
