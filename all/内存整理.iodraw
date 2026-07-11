@@ -619,7 +619,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CWz2fDXk36XJ9x6aYcOS-6" value="电脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2480" y="1240" width="120" height="60" as="geometry" />
+          <mxGeometry x="2560" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CWz2fDXk36XJ9x6aYcOS-9" value="U盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1240" width="120" height="60" as="geometry" />
@@ -630,7 +630,7 @@
         <mxCell id="CWz2fDXk36XJ9x6aYcOS-13" value="C盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CWz2fDXk36XJ9x6aYcOS-14" value="电脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CWz2fDXk36XJ9x6aYcOS-14" value="F盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CWz2fDXk36XJ9x6aYcOS-15" value="E盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
