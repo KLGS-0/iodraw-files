@@ -615,11 +615,17 @@
         <mxCell id="CWz2fDXk36XJ9x6aYcOS-4" value="手机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CWz2fDXk36XJ9x6aYcOS-6" value="文件整理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CWz2fDXk36XJ9x6aYcOS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWz2fDXk36XJ9x6aYcOS-6" target="CWz2fDXk36XJ9x6aYcOS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWz2fDXk36XJ9x6aYcOS-6" value="电脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2480" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CWz2fDXk36XJ9x6aYcOS-9" value="U盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWz2fDXk36XJ9x6aYcOS-11" value="电脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
