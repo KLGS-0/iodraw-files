@@ -618,6 +618,12 @@
         <mxCell id="CWz2fDXk36XJ9x6aYcOS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWz2fDXk36XJ9x6aYcOS-6" target="CWz2fDXk36XJ9x6aYcOS-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CWz2fDXk36XJ9x6aYcOS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CWz2fDXk36XJ9x6aYcOS-6" target="CWz2fDXk36XJ9x6aYcOS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWz2fDXk36XJ9x6aYcOS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWz2fDXk36XJ9x6aYcOS-6" target="CWz2fDXk36XJ9x6aYcOS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CWz2fDXk36XJ9x6aYcOS-6" value="电脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2560" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
