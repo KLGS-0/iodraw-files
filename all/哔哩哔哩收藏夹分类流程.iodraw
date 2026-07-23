@@ -406,7 +406,7 @@
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-156" value="专项" style="swimlane;startSize=0;verticalAlign=bottom;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="480" y="1040" width="120" height="840" as="geometry">
-            <mxRectangle x="400" y="1040" width="50" height="40" as="alternateBounds" />
+            <mxRectangle x="480" y="1040" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-157" value="快速学习" style="rounded=0;whiteSpace=wrap;html=1;" parent="l3s28bpuGz4_rZzrTG9j-156" vertex="1">
