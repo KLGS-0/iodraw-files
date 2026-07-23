@@ -49,9 +49,9 @@
             <mxPoint x="2199.33" y="1418.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GnQjiI2VIBksbcrT3Xe6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GnQjiI2VIBksbcrT3Xe6-13" target="GnQjiI2VIBksbcrT3Xe6-59" edge="1">
+        <mxCell id="GnQjiI2VIBksbcrT3Xe6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GnQjiI2VIBksbcrT3Xe6-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1739.9999999999995" y="1560" as="targetPoint" />
+            <mxPoint x="1740" y="1600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1740" y="1510" />
             </Array>
@@ -198,9 +198,6 @@
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GnQjiI2VIBksbcrT3Xe6-53" target="GnQjiI2VIBksbcrT3Xe6-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GnQjiI2VIBksbcrT3Xe6-59" value="我的世界" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="04ZfChHDkT95PeSDl9Xv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="04ZfChHDkT95PeSDl9Xv-7" target="04ZfChHDkT95PeSDl9Xv-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -405,7 +402,7 @@
           <mxGeometry x="800" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3s28bpuGz4_rZzrTG9j-156" value="专项" style="swimlane;startSize=0;verticalAlign=bottom;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="480" y="1040" width="120" height="840" as="geometry">
+          <mxGeometry x="480" y="1040" width="120" height="920" as="geometry">
             <mxRectangle x="480" y="1040" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
