@@ -63,15 +63,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GnQjiI2VIBksbcrT3Xe6-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="GnQjiI2VIBksbcrT3Xe6-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1900" y="1549.91" as="sourcePoint" />
-            <mxPoint x="1660" y="1609.91" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1900" y="1570" />
-              <mxPoint x="1660" y="1570" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="EJOuWHzD1WEZApDgT0qZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-35" target="EJOuWHzD1WEZApDgT0qZ-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-35" value="&lt;span style=&quot;text-align: left;&quot;&gt;二次元类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1840" y="1480" width="120" height="60" as="geometry" />
@@ -391,7 +384,7 @@
         <mxCell id="EJOuWHzD1WEZApDgT0qZ-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;曲儿&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="1960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EJOuWHzD1WEZApDgT0qZ-8" value="是否是二次元内容" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EJOuWHzD1WEZApDgT0qZ-8" value="是否是攻略" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
