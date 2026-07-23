@@ -414,11 +414,11 @@
         <mxCell id="EJOuWHzD1WEZApDgT0qZ-8" value="是否是攻略" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EJOuWHzD1WEZApDgT0qZ-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;wallpaper壁纸推荐&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EJOuWHzD1WEZApDgT0qZ-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;壁纸推荐&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2080" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EJOuWHzD1WEZApDgT0qZ-20" value="&lt;span style=&quot;text-align: left;&quot;&gt;wallpaper壁纸推荐&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2090" y="1850" width="120" height="60" as="geometry" />
+        <mxCell id="EJOuWHzD1WEZApDgT0qZ-20" value="&lt;span style=&quot;text-align: left;&quot;&gt;MMD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
