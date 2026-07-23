@@ -392,6 +392,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EJOuWHzD1WEZApDgT0qZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EJOuWHzD1WEZApDgT0qZ-8" target="EJOuWHzD1WEZApDgT0qZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJOuWHzD1WEZApDgT0qZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EJOuWHzD1WEZApDgT0qZ-8" target="EJOuWHzD1WEZApDgT0qZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EJOuWHzD1WEZApDgT0qZ-8" value="是否是攻略" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
