@@ -365,10 +365,10 @@
           <mxGeometry y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EJOuWHzD1WEZApDgT0qZ-2" value="战双鸣潮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="1840" width="120" height="60" as="geometry" />
+          <mxGeometry x="2000" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EJOuWHzD1WEZApDgT0qZ-3" value="初音未来" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="1840" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EJOuWHzD1WEZApDgT0qZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EJOuWHzD1WEZApDgT0qZ-6" target="EJOuWHzD1WEZApDgT0qZ-7">
           <mxGeometry relative="1" as="geometry" />
@@ -379,10 +379,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EJOuWHzD1WEZApDgT0qZ-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;纯看&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="1840" width="120" height="60" as="geometry" />
+          <mxGeometry x="1840" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EJOuWHzD1WEZApDgT0qZ-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;曲儿&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="1960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1920" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EJOuWHzD1WEZApDgT0qZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EJOuWHzD1WEZApDgT0qZ-8" target="GnQjiI2VIBksbcrT3Xe6-36">
           <mxGeometry relative="1" as="geometry" />
