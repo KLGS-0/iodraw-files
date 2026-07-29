@@ -318,19 +318,19 @@
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0TVVb7nUccG00-Bj_izH-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="1000" as="targetPoint" />
+            <mxPoint x="740" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;默认&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;收藏夹&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="0TVVb7nUccG00-Bj_izH-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="820" as="sourcePoint" />
+            <mxPoint x="740" y="820" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;哔哩哔哩收藏夹&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="640" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0TVVb7nUccG00-Bj_izH-12" target="0TVVb7nUccG00-Bj_izH-10">
           <mxGeometry relative="1" as="geometry">
