@@ -337,9 +337,9 @@
             <mxPoint x="180" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0TVVb7nUccG00-Bj_izH-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TVVb7nUccG00-Bj_izH-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+        <mxCell id="0TVVb7nUccG00-Bj_izH-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TVVb7nUccG00-Bj_izH-6">
+          <mxGeometry x="-0.121" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
