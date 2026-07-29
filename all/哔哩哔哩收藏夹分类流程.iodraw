@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="M6tRW5jWzARfsib-VE_3">
-    <mxGraphModel dx="1343" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="448" dy="230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,14 +72,8 @@
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-36" value="&lt;span style=&quot;text-align: left;&quot;&gt;游戏攻略&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1680" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GnQjiI2VIBksbcrT3Xe6-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GnQjiI2VIBksbcrT3Xe6-46" target="GnQjiI2VIBksbcrT3Xe6-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1340" y="1120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1780" y="1090" />
-              <mxPoint x="1260" y="1090" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="0TVVb7nUccG00-Bj_izH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GnQjiI2VIBksbcrT3Xe6-46" target="GnQjiI2VIBksbcrT3Xe6-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GnQjiI2VIBksbcrT3Xe6-46" value="&lt;span style=&quot;text-align: left;&quot;&gt;默认&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;收藏夹&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1000" width="120" height="60" as="geometry" />
