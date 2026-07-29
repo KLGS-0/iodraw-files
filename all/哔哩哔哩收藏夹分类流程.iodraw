@@ -334,7 +334,7 @@
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0TVVb7nUccG00-Bj_izH-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="440" as="targetPoint" />
+            <mxPoint x="500" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0TVVb7nUccG00-Bj_izH-6">
@@ -344,27 +344,27 @@
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="959.3299999999999" y="378.3299999999999" as="sourcePoint" />
-            <mxPoint x="959.3299999999999" y="378.3299999999999" as="targetPoint" />
+            <mxPoint x="799.3299999999999" y="158.32999999999993" as="sourcePoint" />
+            <mxPoint x="799.3299999999999" y="158.32999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0TVVb7nUccG00-Bj_izH-10" target="0TVVb7nUccG00-Bj_izH-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-10" value="&lt;span style=&quot;text-align: left;&quot;&gt;二次元类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;游戏攻略&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-12" value="是否是二次元内容" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-13" value="战双鸣潮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-14" value="初音未来" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0TVVb7nUccG00-Bj_izH-17" target="0TVVb7nUccG00-Bj_izH-18">
           <mxGeometry relative="1" as="geometry" />
@@ -375,10 +375,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-17" value="&lt;span style=&quot;text-align: left;&quot;&gt;纯看&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-18" value="&lt;span style=&quot;text-align: left;&quot;&gt;曲儿&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0TVVb7nUccG00-Bj_izH-26" target="0TVVb7nUccG00-Bj_izH-11">
           <mxGeometry relative="1" as="geometry" />
@@ -408,13 +408,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-26" value="是否是攻略" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-27" value="&lt;span style=&quot;text-align: left;&quot;&gt;壁纸推荐&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0TVVb7nUccG00-Bj_izH-28" value="&lt;span style=&quot;text-align: left;&quot;&gt;MMD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
