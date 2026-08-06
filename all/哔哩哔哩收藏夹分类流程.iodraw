@@ -409,6 +409,9 @@
         <mxCell id="RgeDwSck6HSfPF77V_Z8-9" value="&lt;span style=&quot;text-align: left;&quot;&gt;MMD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1802.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RgeDwSck6HSfPF77V_Z8-11" value="是否是专项" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
