@@ -376,10 +376,10 @@
           <mxGeometry x="160" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RgeDwSck6HSfPF77V_Z8-1" value="战双鸣潮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RgeDwSck6HSfPF77V_Z8-2" value="初音未来" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RgeDwSck6HSfPF77V_Z8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RgeDwSck6HSfPF77V_Z8-5" target="RgeDwSck6HSfPF77V_Z8-6">
           <mxGeometry relative="1" as="geometry" />
@@ -396,10 +396,10 @@
           <mxGeometry x="480" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RgeDwSck6HSfPF77V_Z8-8" value="&lt;span style=&quot;text-align: left;&quot;&gt;壁纸推荐&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1750" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RgeDwSck6HSfPF77V_Z8-9" value="&lt;span style=&quot;text-align: left;&quot;&gt;MMD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RgeDwSck6HSfPF77V_Z8-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1480" width="120" height="60" as="geometry" />
