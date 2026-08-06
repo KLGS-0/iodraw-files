@@ -408,7 +408,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RgeDwSck6HSfPF77V_Z8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RgeDwSck6HSfPF77V_Z8-13" target="RgeDwSck6HSfPF77V_Z8-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="1570" />
+              <mxPoint x="60" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgeDwSck6HSfPF77V_Z8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RgeDwSck6HSfPF77V_Z8-13" target="RgeDwSck6HSfPF77V_Z8-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="1570" />
+              <mxPoint x="-100" y="1570" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RgeDwSck6HSfPF77V_Z8-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1480" width="120" height="60" as="geometry" />
