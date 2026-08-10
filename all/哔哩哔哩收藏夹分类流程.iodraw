@@ -454,6 +454,9 @@
         <mxCell id="RgeDwSck6HSfPF77V_Z8-24" value="软件(用)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0Ya0T8wLNIm1uJ4RAi_M-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="970" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
