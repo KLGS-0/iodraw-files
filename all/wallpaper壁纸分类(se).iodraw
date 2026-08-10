@@ -108,8 +108,10 @@
         <mxCell id="2XqnZX4oKZiRGcOrI3bF-5" value="动画" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="93PFXFvFY9WfhZZzg_nQ-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="240" width="120" height="1300" as="geometry" />
+        <mxCell id="93PFXFvFY9WfhZZzg_nQ-9" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1440" y="240" width="50" height="40" as="geometry">
+            <mxRectangle x="1440" y="240" width="120" height="1300" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="93PFXFvFY9WfhZZzg_nQ-10" value="se丽娜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="93PFXFvFY9WfhZZzg_nQ-9">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
