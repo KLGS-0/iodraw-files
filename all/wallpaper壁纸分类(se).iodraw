@@ -109,7 +109,7 @@
           <mxGeometry x="880" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="93PFXFvFY9WfhZZzg_nQ-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="460" width="120" height="1300" as="geometry" />
+          <mxGeometry x="1440" y="240" width="120" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="93PFXFvFY9WfhZZzg_nQ-10" value="se丽娜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="93PFXFvFY9WfhZZzg_nQ-9">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
