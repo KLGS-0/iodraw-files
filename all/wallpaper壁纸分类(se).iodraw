@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lnHSOVlDmyOhy9h1p2kJ">
-    <mxGraphModel dx="507" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="1014" dy="1294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,34 +113,34 @@
           <mxGeometry x="1430" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NwiT9eJ0IiN0WYvwZ7Sl-9" value="se伊芙琳" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pqQNndd3L50WUCeJXdWR-1" value="se信浓武藏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pqQNndd3L50WUCeJXdWR-2" value="se卡芙卡" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pqQNndd3L50WUCeJXdWR-5" value="se流萤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pqQNndd3L50WUCeJXdWR-6" value="se爱宕" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pqQNndd3L50WUCeJXdWR-7" value="se碧蓝档案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1880" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pqQNndd3L50WUCeJXdWR-8" value="se阿尔托莉雅" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2XqnZX4oKZiRGcOrI3bF-6" value="se鸣潮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="93PFXFvFY9WfhZZzg_nQ-1" value="se円香" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="93PFXFvFY9WfhZZzg_nQ-2" value="se甘雨申鹤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
