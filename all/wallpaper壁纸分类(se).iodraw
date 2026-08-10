@@ -22,11 +22,14 @@
         <mxCell id="iZpaHNMg84vxa8UUYxZ3-1" value="永战血魄" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NwiT9eJ0IiN0WYvwZ7Sl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZpaHNMg84vxa8UUYxZ3-2" target="NwiT9eJ0IiN0WYvwZ7Sl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iZpaHNMg84vxa8UUYxZ3-2" value="临时" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iZpaHNMg84vxa8UUYxZ3-3" value="独身" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iZpaHNMg84vxa8UUYxZ3-4" value="淫姦秽肏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="360" width="120" height="60" as="geometry" />
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="iZpaHNMg84vxa8UUYxZ3-14" value="袒胸露乳" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NwiT9eJ0IiN0WYvwZ7Sl-1" value="临时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
