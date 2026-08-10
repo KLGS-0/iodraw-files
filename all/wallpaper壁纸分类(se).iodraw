@@ -154,6 +154,9 @@
         <mxCell id="93PFXFvFY9WfhZZzg_nQ-7" value="se神里绫华" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="93PFXFvFY9WfhZZzg_nQ-8" value="se阿波尼亚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
