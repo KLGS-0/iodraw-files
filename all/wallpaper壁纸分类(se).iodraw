@@ -70,8 +70,14 @@
         <mxCell id="NwiT9eJ0IiN0WYvwZ7Sl-9" value="se伊芙琳" style="rounded=0;whiteSpace=wrap;html=1;" parent="NwiT9eJ0IiN0WYvwZ7Sl-7" vertex="1">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pqQNndd3L50WUCeJXdWR-1" value="se伊芙琳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="pqQNndd3L50WUCeJXdWR-1" value="se伊芙琳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NwiT9eJ0IiN0WYvwZ7Sl-7">
+          <mxGeometry y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pqQNndd3L50WUCeJXdWR-2" value="se伊芙琳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NwiT9eJ0IiN0WYvwZ7Sl-7">
+          <mxGeometry y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pqQNndd3L50WUCeJXdWR-3" value="se伊芙琳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NwiT9eJ0IiN0WYvwZ7Sl-7">
+          <mxGeometry y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
