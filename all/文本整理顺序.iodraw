@@ -604,7 +604,7 @@
             <mxPoint x="540" y="100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pLWRsNThIopbpOa92VU2-1" value="&lt;div&gt;U盘电脑文件同步.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pLWRsNThIopbpOa92VU2-1" value="矩阵.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pLWRsNThIopbpOa92VU2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="pLWRsNThIopbpOa92VU2-1">
