@@ -288,7 +288,7 @@
           <mxGeometry x="720" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wbNlAlgwpvFmE557tW4q-20" value="专用专记内文件" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="40" width="600" height="1000" as="geometry">
+          <mxGeometry x="880" y="40" width="600" height="1000" as="geometry">
             <mxRectangle x="1000" y="40" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
