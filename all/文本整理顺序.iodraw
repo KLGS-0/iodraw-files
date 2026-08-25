@@ -66,7 +66,7 @@
         <mxCell id="Px_kAlENZFl4mQWEln_4-8" value="杂写" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fivvTltgipui3nkq-NXH-1" value="简繁流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fivvTltgipui3nkq-NXH-1" value="聚合事项" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QX7AiPN__2uwLQ27SLXq-2" value="封笔、IT笔记内文件" style="swimlane;startSize=0;fontStyle=0;align=left;verticalAlign=bottom;" parent="1" vertex="1">
