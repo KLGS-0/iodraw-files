@@ -640,7 +640,7 @@
             <mxPoint x="780" y="579.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pLWRsNThIopbpOa92VU2-10" value="&lt;div&gt;远程控制.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pLWRsNThIopbpOa92VU2-10" value="&lt;div&gt;鸣潮洗声骸记录&lt;span style=&quot;background-color: initial;&quot;&gt;.txt&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
