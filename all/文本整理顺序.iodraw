@@ -858,6 +858,9 @@
             <mxPoint x="100" y="900" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pWQduyiLE9GNpssmazA_-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pWQduyiLE9GNpssmazA_-138" source="pWQduyiLE9GNpssmazA_-176" target="pWQduyiLE9GNpssmazA_-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-176" value="吃饭.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pWQduyiLE9GNpssmazA_-138">
           <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -875,6 +878,9 @@
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-181" value="本子名.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pWQduyiLE9GNpssmazA_-138">
           <mxGeometry x="40" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pWQduyiLE9GNpssmazA_-185" value="工具集.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pWQduyiLE9GNpssmazA_-138">
+          <mxGeometry x="40" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
