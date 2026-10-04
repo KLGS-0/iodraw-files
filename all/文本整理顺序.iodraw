@@ -793,13 +793,13 @@
         <mxCell id="pWQduyiLE9GNpssmazA_-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pWQduyiLE9GNpssmazA_-138" source="pWQduyiLE9GNpssmazA_-151" target="pWQduyiLE9GNpssmazA_-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-151" value="哔哩哔哩.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pWQduyiLE9GNpssmazA_-138">
+        <mxCell id="pWQduyiLE9GNpssmazA_-151" value="&lt;div&gt;插件名称与ID对应表.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pWQduyiLE9GNpssmazA_-138">
           <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pWQduyiLE9GNpssmazA_-138" source="pWQduyiLE9GNpssmazA_-153" target="pWQduyiLE9GNpssmazA_-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-153" value="夸克.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pWQduyiLE9GNpssmazA_-138">
+        <mxCell id="pWQduyiLE9GNpssmazA_-153" value="常用插件功能介绍.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pWQduyiLE9GNpssmazA_-138">
           <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pWQduyiLE9GNpssmazA_-138" source="pWQduyiLE9GNpssmazA_-155" target="pWQduyiLE9GNpssmazA_-157">
