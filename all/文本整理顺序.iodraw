@@ -295,29 +295,6 @@
         <mxCell id="0vn5AaToEaKhxOWkokhu-26" value="&lt;div&gt;远程控制.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="0vn5AaToEaKhxOWkokhu-29" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="220" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0vn5AaToEaKhxOWkokhu-28" value="项目研发" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0vn5AaToEaKhxOWkokhu-29" target="0vn5AaToEaKhxOWkokhu-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0vn5AaToEaKhxOWkokhu-29" value="&lt;div&gt;电脑快捷键.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="--rLkz1E7t8aWVzr7mi8-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0vn5AaToEaKhxOWkokhu-30" target="0vn5AaToEaKhxOWkokhu-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0vn5AaToEaKhxOWkokhu-30" value="&lt;div&gt;快捷键开发.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0vn5AaToEaKhxOWkokhu-31" value="&lt;div&gt;项目研发.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="0vn5AaToEaKhxOWkokhu-37" value="编写代码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-640" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
@@ -340,14 +317,6 @@
         <mxCell id="--rLkz1E7t8aWVzr7mi8-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="--rLkz1E7t8aWVzr7mi8-40" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PmGxOaOCATCe5ADnINGN-1" value="&lt;div&gt;bat小垃圾.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PmGxOaOCATCe5ADnINGN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="PmGxOaOCATCe5ADnINGN-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-4" value="临时" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
@@ -915,6 +884,37 @@
         <mxCell id="pWQduyiLE9GNpssmazA_-195" value="项目研发" style="swimlane;startSize=0;verticalAlign=bottom;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="200" height="600" as="geometry">
             <mxRectangle x="240" y="40" width="120" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--rLkz1E7t8aWVzr7mi8-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="pWQduyiLE9GNpssmazA_-195" target="0vn5AaToEaKhxOWkokhu-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0vn5AaToEaKhxOWkokhu-28" value="项目研发" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pWQduyiLE9GNpssmazA_-195" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="--rLkz1E7t8aWVzr7mi8-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="pWQduyiLE9GNpssmazA_-195" source="0vn5AaToEaKhxOWkokhu-29" target="0vn5AaToEaKhxOWkokhu-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0vn5AaToEaKhxOWkokhu-29" value="&lt;div&gt;电脑快捷键.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="pWQduyiLE9GNpssmazA_-195" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="--rLkz1E7t8aWVzr7mi8-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="pWQduyiLE9GNpssmazA_-195" source="0vn5AaToEaKhxOWkokhu-30" target="0vn5AaToEaKhxOWkokhu-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0vn5AaToEaKhxOWkokhu-30" value="&lt;div&gt;快捷键开发.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="pWQduyiLE9GNpssmazA_-195" vertex="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0vn5AaToEaKhxOWkokhu-31" value="&lt;div&gt;项目研发.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="pWQduyiLE9GNpssmazA_-195" vertex="1">
+          <mxGeometry x="40" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PmGxOaOCATCe5ADnINGN-1" value="&lt;div&gt;bat小垃圾.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="pWQduyiLE9GNpssmazA_-195" vertex="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PmGxOaOCATCe5ADnINGN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="pWQduyiLE9GNpssmazA_-195" target="PmGxOaOCATCe5ADnINGN-1" edge="1" source="0vn5AaToEaKhxOWkokhu-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
