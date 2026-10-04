@@ -738,7 +738,7 @@
           <mxGeometry x="-320" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-138" value="专用专记内文件" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;align=left;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-360" y="1280" width="50" height="40" as="geometry">
+          <mxGeometry x="-360" y="1280" width="120" height="60" as="geometry">
             <mxRectangle x="-360" y="1280" width="600" height="1520" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -913,7 +913,7 @@
           <mxGeometry x="40" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-195" value="项目研发" style="swimlane;startSize=0;verticalAlign=bottom;fontStyle=0" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="240" y="40" width="40" height="40" as="geometry">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry">
             <mxRectangle x="240" y="40" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
