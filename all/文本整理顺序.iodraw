@@ -737,9 +737,9 @@
         <mxCell id="pWQduyiLE9GNpssmazA_-134" value="项目研发" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-320" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-138" value="专用专记内文件" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;align=left;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-360" y="1280" width="120" height="60" as="geometry">
-            <mxRectangle x="-360" y="1280" width="600" height="1520" as="alternateBounds" />
+        <mxCell id="pWQduyiLE9GNpssmazA_-138" value="专用专记内文件" style="swimlane;startSize=0;fontStyle=0;verticalAlign=bottom;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1280" width="600" height="1520" as="geometry">
+            <mxRectangle x="-360" y="1280" width="120" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pWQduyiLE9GNpssmazA_-138" source="pWQduyiLE9GNpssmazA_-143" target="pWQduyiLE9GNpssmazA_-145">
