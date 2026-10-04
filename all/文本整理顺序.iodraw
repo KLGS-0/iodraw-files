@@ -881,9 +881,9 @@
         <mxCell id="pWQduyiLE9GNpssmazA_-194" value="软件集.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pWQduyiLE9GNpssmazA_-138">
           <mxGeometry x="40" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-195" value="项目研发" style="swimlane;startSize=0;verticalAlign=bottom;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="200" height="600" as="geometry">
-            <mxRectangle x="240" y="40" width="120" height="60" as="alternateBounds" />
+        <mxCell id="pWQduyiLE9GNpssmazA_-195" value="项目研发" style="swimlane;startSize=0;verticalAlign=bottom;fontStyle=0" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-320" y="1200" width="120" height="60" as="geometry">
+            <mxRectangle x="240" y="40" width="200" height="600" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="--rLkz1E7t8aWVzr7mi8-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="pWQduyiLE9GNpssmazA_-195" target="0vn5AaToEaKhxOWkokhu-29" edge="1">
