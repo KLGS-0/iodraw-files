@@ -682,18 +682,6 @@
         <mxCell id="pWQduyiLE9GNpssmazA_-112" value="AI相关" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-480" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-122" value="简并项" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="1480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-124" value="聚合项" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="1560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-126" value="QQ版本回退" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="1480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-127" value="清理手机内存" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="1560" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-128" value="专用专记" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-160" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
