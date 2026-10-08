@@ -631,8 +631,11 @@
         <mxCell id="0dfn4pIGLW6kiz-zySp--104" value="是否是专项" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="3680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0dfn4pIGLW6kiz-zySp--178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0dfn4pIGLW6kiz-zySp--112" target="0dfn4pIGLW6kiz-zySp--177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--112" value="是否是IT类内容" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="3240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1720" y="3320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0dfn4pIGLW6kiz-zySp--117" target="0dfn4pIGLW6kiz-zySp--147">
           <mxGeometry relative="1" as="geometry">
@@ -880,7 +883,7 @@
           <mxGeometry x="1719.75" y="3560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--177" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="3730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1719.75" y="3440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
