@@ -885,14 +885,9 @@
         <mxCell id="0dfn4pIGLW6kiz-zySp--177" value="&lt;span style=&quot;text-align: left;&quot;&gt;IT类待整&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1719.75" y="3440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0dfn4pIGLW6kiz-zySp--179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0dfn4pIGLW6kiz-zySp--184">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1789.75" y="3510" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0dfn4pIGLW6kiz-zySp--184">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1629.75" y="3690" as="targetPoint" />
+            <mxPoint x="1779.79" y="3870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--181" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0dfn4pIGLW6kiz-zySp--180">
@@ -902,7 +897,7 @@
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0dfn4pIGLW6kiz-zySp--184">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1949.75" y="3690" as="targetPoint" />
+            <mxPoint x="2099.79" y="3870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--183" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0dfn4pIGLW6kiz-zySp--182">
@@ -911,7 +906,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--184" value="是否是玄离199" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1729.75" y="3570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1879.79" y="3750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
