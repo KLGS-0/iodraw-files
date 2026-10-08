@@ -846,8 +846,8 @@
         <mxCell id="0dfn4pIGLW6kiz-zySp--168" value="软件(用)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="4040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0dfn4pIGLW6kiz-zySp--61" value="玄离199" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="3600" width="120" height="60" as="geometry" />
+        <mxCell id="0dfn4pIGLW6kiz-zySp--61" value="玄离199" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="3680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0dfn4pIGLW6kiz-zySp--176">
           <mxGeometry relative="1" as="geometry">
