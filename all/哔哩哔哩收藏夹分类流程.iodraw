@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="M6tRW5jWzARfsib-VE_3">
-    <mxGraphModel dx="2127" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="1727" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -468,7 +468,7 @@
         <mxCell id="0dfn4pIGLW6kiz-zySp--60" value="GitHub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0dfn4pIGLW6kiz-zySp--57">
           <mxGeometry y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0dfn4pIGLW6kiz-zySp--61" value="玄离199" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0dfn4pIGLW6kiz-zySp--57">
+        <mxCell id="0dfn4pIGLW6kiz-zySp--61" value="玄离199" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0dfn4pIGLW6kiz-zySp--57">
           <mxGeometry y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--62" value="网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0dfn4pIGLW6kiz-zySp--57">
@@ -532,11 +532,6 @@
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--78" value="&lt;span style=&quot;text-align: left;&quot;&gt;游戏攻略&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="3680" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0dfn4pIGLW6kiz-zySp--170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0dfn4pIGLW6kiz-zySp--81">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1780" y="3370" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--81" value="是否是二次元内容" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="3320" width="120" height="60" as="geometry" />
