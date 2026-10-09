@@ -915,13 +915,13 @@
         <mxCell id="0dfn4pIGLW6kiz-zySp--184" value="是否是软件推荐" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1879.73" y="3680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0dfn4pIGLW6kiz-zySp--185" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0dfn4pIGLW6kiz-zySp--185" value="看看" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1720" y="3920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--187" value="要下" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1560" y="3920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0dfn4pIGLW6kiz-zySp--188" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0dfn4pIGLW6kiz-zySp--188" value="有了" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1880" y="3920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
