@@ -799,6 +799,9 @@
             <mxPoint x="1720" y="4200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0dfn4pIGLW6kiz-zySp--186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0dfn4pIGLW6kiz-zySp--152" target="0dfn4pIGLW6kiz-zySp--185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--152" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;软件推荐&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1719.75" y="3800" width="120" height="60" as="geometry" />
         </mxCell>
@@ -895,6 +898,9 @@
         </mxCell>
         <mxCell id="0dfn4pIGLW6kiz-zySp--184" value="是否是软件推荐" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1879.73" y="3680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0dfn4pIGLW6kiz-zySp--185" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="3920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
