@@ -271,12 +271,13 @@
         <mxCell id="pWQduyiLE9GNpssmazA_-71" value="事项" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pWQduyiLE9GNpssmazA_-72" target="pWQduyiLE9GNpssmazA_-76" edge="1">
+        <mxCell id="pWQduyiLE9GNpssmazA_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pWQduyiLE9GNpssmazA_-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-580" y="1050" />
               <mxPoint x="-740" y="1050" />
             </Array>
+            <mxPoint x="-740" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-72" value="生活事项" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -306,25 +307,25 @@
         <mxCell id="pWQduyiLE9GNpssmazA_-73" value="余下(专项分类)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pWQduyiLE9GNpssmazA_-74" target="pWQduyiLE9GNpssmazA_-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pWQduyiLE9GNpssmazA_-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pWQduyiLE9GNpssmazA_-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-740" y="1080" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-74" value="游戏相关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pWQduyiLE9GNpssmazA_-75" target="pWQduyiLE9GNpssmazA_-76" edge="1">
+        <mxCell id="pWQduyiLE9GNpssmazA_-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pWQduyiLE9GNpssmazA_-75" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-900" y="1050" />
               <mxPoint x="-740" y="1050" />
             </Array>
+            <mxPoint x="-740" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-75" value="课程相关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-960" y="960" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pWQduyiLE9GNpssmazA_-76" value="3.候办.txt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-88" value="3.单项事.txt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-960" y="1320" width="120" height="60" as="geometry" />
