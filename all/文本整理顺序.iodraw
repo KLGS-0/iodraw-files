@@ -651,6 +651,9 @@
         <mxCell id="TJxgWDmwU-3Qm5CRCzaI-31" value="3.侯办" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-960" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TJxgWDmwU-3Qm5CRCzaI-36" value="鸣潮" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
