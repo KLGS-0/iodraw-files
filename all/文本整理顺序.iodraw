@@ -272,7 +272,7 @@
           <mxGeometry x="-280" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-72" value="生活事项" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="-960" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pWQduyiLE9GNpssmazA_-73" edge="1">
           <mxGeometry relative="1" as="geometry">
