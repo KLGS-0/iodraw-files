@@ -115,7 +115,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-660" y="930" />
-              <mxPoint x="-900" y="930" />
+              <mxPoint x="-1060" y="930" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -321,7 +321,7 @@
           <mxGeometry x="-800" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-75" value="课程相关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-960" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1120" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWQduyiLE9GNpssmazA_-88" value="3.单项事.txt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-960" y="1320" width="120" height="60" as="geometry" />
