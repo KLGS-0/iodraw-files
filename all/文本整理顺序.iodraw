@@ -598,8 +598,10 @@
             <mxPoint x="60" y="100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TJxgWDmwU-3Qm5CRCzaI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TJxgWDmwU-3Qm5CRCzaI-1" target="TJxgWDmwU-3Qm5CRCzaI-36">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TJxgWDmwU-3Qm5CRCzaI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TJxgWDmwU-3Qm5CRCzaI-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-580" y="1080" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TJxgWDmwU-3Qm5CRCzaI-1" value="散事" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="960" width="120" height="60" as="geometry" />
@@ -654,7 +656,7 @@
         <mxCell id="TJxgWDmwU-3Qm5CRCzaI-31" value="3.侯办" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-960" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TJxgWDmwU-3Qm5CRCzaI-36" value="散事" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="TJxgWDmwU-3Qm5CRCzaI-38" value="散事" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
