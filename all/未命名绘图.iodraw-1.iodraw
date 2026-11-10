@@ -270,6 +270,9 @@
             <mxRectangle width="67" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g9crZWmtzlpLU2gKRqia-94" value="Table with Title 1" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
