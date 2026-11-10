@@ -227,7 +227,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g9crZWmtzlpLU2gKRqia-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g9crZWmtzlpLU2gKRqia-117" target="g9crZWmtzlpLU2gKRqia-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="235" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="g9crZWmtzlpLU2gKRqia-117" value="PET" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1040" y="360" width="200" height="150" as="geometry" />
