@@ -7,8 +7,16 @@
         <mxCell id="orNPVOoYokVaox095Kqx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-1" target="orNPVOoYokVaox095Kqx-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="orNPVOoYokVaox095Kqx-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-8">
+        <mxCell id="orNPVOoYokVaox095Kqx-9" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-8">
           <mxGeometry x="0.3931" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-1" target="orNPVOoYokVaox095Kqx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-10">
+          <mxGeometry x="0.5294" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
