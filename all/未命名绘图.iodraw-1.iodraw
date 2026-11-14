@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="orNPVOoYokVaox095Kqx-12" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-8">
-          <mxGeometry x="0.7172" y="4" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="orNPVOoYokVaox095Kqx-11" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-10">
-          <mxGeometry x="0.5294" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -54,12 +54,12 @@
         <mxCell id="orNPVOoYokVaox095Kqx-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-6" target="orNPVOoYokVaox095Kqx-78">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="615" />
+              <mxPoint x="40" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="orNPVOoYokVaox095Kqx-86" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-85">
-          <mxGeometry x="0.1925" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="orNPVOoYokVaox095Kqx-51" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-50">
-          <mxGeometry x="-0.0436" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -112,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="orNPVOoYokVaox095Kqx-53" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-52">
-          <mxGeometry x="-0.0436" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -150,11 +150,11 @@
         <mxCell id="orNPVOoYokVaox095Kqx-61" value="诊疗记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="960" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="orNPVOoYokVaox095Kqx-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-68" target="orNPVOoYokVaox095Kqx-72">
+        <mxCell id="orNPVOoYokVaox095Kqx-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-68" target="orNPVOoYokVaox095Kqx-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="orNPVOoYokVaox095Kqx-64" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-63">
-          <mxGeometry x="0.5294" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -192,7 +192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="orNPVOoYokVaox095Kqx-84" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-83">
-          <mxGeometry x="0.3161" y="-2" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -205,7 +205,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="orNPVOoYokVaox095Kqx-74" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-73">
-          <mxGeometry x="0.5294" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
