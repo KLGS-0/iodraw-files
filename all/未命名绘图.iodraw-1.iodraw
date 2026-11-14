@@ -123,6 +123,48 @@
         <mxCell id="orNPVOoYokVaox095Kqx-49" value="体重" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="720" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-54" target="orNPVOoYokVaox095Kqx-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-53" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-52">
+          <mxGeometry x="-0.0436" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-54" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-58" target="orNPVOoYokVaox095Kqx-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="930" />
+              <mxPoint x="40" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-58" target="orNPVOoYokVaox095Kqx-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-58" target="orNPVOoYokVaox095Kqx-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="930" />
+              <mxPoint x="280" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-58" value="宠物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="840" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-59" value="宠物ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-60" value="宠物名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-61" value="体重" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="960" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
