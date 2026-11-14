@@ -51,6 +51,9 @@
         <mxCell id="orNPVOoYokVaox095Kqx-5" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-6" target="orNPVOoYokVaox095Kqx-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="orNPVOoYokVaox095Kqx-6" value="发起" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="480" width="80" height="80" as="geometry" />
         </mxCell>
@@ -179,7 +182,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="orNPVOoYokVaox095Kqx-84" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-83">
+        <mxCell id="orNPVOoYokVaox095Kqx-84" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-83">
           <mxGeometry x="0.3161" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
