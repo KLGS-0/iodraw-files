@@ -47,6 +47,38 @@
         <mxCell id="orNPVOoYokVaox095Kqx-7" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="480" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-38" target="orNPVOoYokVaox095Kqx-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-34" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orNPVOoYokVaox095Kqx-33">
+          <mxGeometry x="0.5294" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-38" target="orNPVOoYokVaox095Kqx-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-38" target="orNPVOoYokVaox095Kqx-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="orNPVOoYokVaox095Kqx-38" target="orNPVOoYokVaox095Kqx-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-39" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-40" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-41" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="orNPVOoYokVaox095Kqx-42" value="发起" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
