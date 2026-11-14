@@ -117,10 +117,10 @@
         <mxCell id="orNPVOoYokVaox095Kqx-47" value="宠物ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="720" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="orNPVOoYokVaox095Kqx-48" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="orNPVOoYokVaox095Kqx-48" value="宠物名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="720" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="orNPVOoYokVaox095Kqx-49" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="orNPVOoYokVaox095Kqx-49" value="体重" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="720" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
